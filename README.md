@@ -6,7 +6,13 @@ Manual de Usuario - inicio de sesión
    - Pasos para Iniciar Sesión
 5. Especificaciones
    
-Manual Tecnico
+Manual Tecnico - Inicio de Sesion
+Diagrama de Clases
+Arquitectura del Sistema
+Diagrama de Componentes
+Diagrama de Despliegue
+
+
 Manual de Usuario - Listar Eventos
 1. historia de usuario
 2. Funcionalidades
