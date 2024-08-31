@@ -6,15 +6,15 @@ Manual de Usuario - inicio de sesión
    
 2.1 Inicio de Sesión
     Requisitos del Sistema
-
-    
      - Pagina Web: React librería necesaria para construir la interfaz de usuario
      - App Mobile: Flutter framework utilizado para crear aplicaciones móviles, web y de escritorio
      - Backend: Python lenguaje de programación de alto nivel, interpretado y de propósito general, conocido por su 
        simplicidad y legibilidad.
+   2.2 Listar Eventos
   Requisitos del Sistema
-- Listar Eventos
-
+   - Pagina Web: React librería necesaria para construir la interfaz de usuario
+- App Mobile: Flutter framework utilizado para crear aplicaciones móviles, web y de escritorio
+- Backend: C# para el codigo donde se uso MongoDB.Driver
 Manual Tecnico - Inicio de Sesion y Listar Eventos
 1. Diagrama de Clases
 2. Arquitectura del Sistema
