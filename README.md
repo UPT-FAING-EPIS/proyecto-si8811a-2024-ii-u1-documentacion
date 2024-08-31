@@ -1,10 +1,7 @@
 Manual de Usuario - inicio de sesión
 1. historia de usuario
-3. Funcionalidades
-  2.1 Funcionalidad de Inicio de Sesión
-   - Descripción
-   - Pasos para Iniciar Sesión
-5. Especificaciones
+
+2. Especificaciones
    
 Manual Tecnico - Inicio de Sesion
 1. Diagrama de Clases
