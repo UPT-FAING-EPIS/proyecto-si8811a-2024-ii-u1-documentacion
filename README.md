@@ -2,7 +2,14 @@ Manual de Usuario - inicio de sesión
 1. historia de usuario
 
 2. Especificaciones
-
+   2.1 Inicio de Sesión
+    Requisitos del Sistema
+     - Pagina Web: React librería necesaria para construir la interfaz de usuario
+     - App Mobile: Flutter framework utilizado para crear aplicaciones móviles, web y de escritorio
+     - Backend: Python lenguaje de programación de alto nivel, interpretado y de propósito general, conocido por su 
+       simplicidad y legibilidad.
+  Requisitos del Sistema
+- Listar Eventos
 
 Manual Tecnico - Inicio de Sesion y Listar Eventos
 1. Diagrama de Clases
