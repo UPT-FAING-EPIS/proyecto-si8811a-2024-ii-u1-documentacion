@@ -5,7 +5,8 @@ Manual de Usuario - inicio de sesión
 
    
    2.1 Inicio de Sesión
-        Requisitos del Sistema
+
+      Requisitos del Sistema
    
      - Pagina Web: React librería necesaria para construir la interfaz de usuario
      - App Mobile: Flutter framework utilizado para crear aplicaciones móviles, web y de escritorio
@@ -14,11 +15,11 @@ Manual de Usuario - inicio de sesión
    
    2.2 Listar Eventos
   
-  Requisitos del Sistema
+     Requisitos del Sistema
   
    - Pagina Web: React librería necesaria para construir la interfaz de usuario
-- App Mobile: Flutter framework utilizado para crear aplicaciones móviles, web y de escritorio
-- Backend: C# para el codigo donde se uso MongoDB.Driver
+   - App Mobile: Flutter framework utilizado para crear aplicaciones móviles, web y de escritorio
+   - Backend: C# para el codigo donde se uso MongoDB.Driver
 
 
 
