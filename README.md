@@ -7,10 +7,10 @@ Manual de Usuario - inicio de sesión
 5. Especificaciones
    
 Manual Tecnico - Inicio de Sesion
-Diagrama de Clases
-Arquitectura del Sistema
-Diagrama de Componentes
-Diagrama de Despliegue
+1. Diagrama de Clases
+2. Arquitectura del Sistema
+3. Diagrama de Componentes
+4. Diagrama de Despliegue
 
 
 Manual de Usuario - Listar Eventos
