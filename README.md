@@ -1,2 +1,3 @@
-Manual de Usuario - 
+Manual de Usuario
+Manual Tecnico
 
