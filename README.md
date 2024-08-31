@@ -2,6 +2,8 @@ Manual de Usuario - inicio de sesión
 1. historia de usuario
 
 2. Especificaciones
+
+   
 2.1 Inicio de Sesión
     Requisitos del Sistema
      - Pagina Web: React librería necesaria para construir la interfaz de usuario
