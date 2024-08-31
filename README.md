@@ -1,4 +1,4 @@
-Manual de Usuario - inicio de sesión
+Manual de Usuario - Inicio de Sesión
 1. historia de usuario
 
 2. Especificaciones
