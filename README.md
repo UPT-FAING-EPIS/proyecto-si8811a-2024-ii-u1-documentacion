@@ -26,7 +26,7 @@ Manual de Usuario - Inicio de Sesión
 Manual Tecnico - Inicio de Sesion y Listar Eventos
 1. Diagrama de Clases
 
-   Listar Eventos (Web)
+   Desarrollo Web
    
    ![image](https://github.com/user-attachments/assets/636ca495-de93-4c9b-9165-76fb65e89b26)
 
