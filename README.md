@@ -25,7 +25,12 @@ Manual de Usuario - Inicio de Sesión
 
 Manual Tecnico - Inicio de Sesion y Listar Eventos
 1. Diagrama de Clases
-2. Arquitectura del Sistema
+
+   Listar Eventos (Web)
+   
+   ![image](https://github.com/user-attachments/assets/636ca495-de93-4c9b-9165-76fb65e89b26)
+
+3. Arquitectura del Sistema
 
 ![image](https://github.com/user-attachments/assets/dd77e382-fdfa-4fa1-bca5-a063327f6d81)
 
