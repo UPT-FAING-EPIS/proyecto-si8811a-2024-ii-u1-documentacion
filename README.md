@@ -3,35 +3,10 @@ Manual de Usuario - Inicio de Sesión
 
    Desarrollo Web
 
-https://github.com/user-attachments/assets/f680f173-9157-4d19-a730-ecfc4c9109a8
 
 
+https://github.com/user-attachments/assets/fb4c86ac-e5bd-4a51-bde2-2cc414c5c85e
 
-https://github.com/user-attachments/assets/dc9d0a03-1b88-4f60-960f-772ae70dd054
-
-
-
-https://github.com/user-attachments/assets/e4c20bb0-9d39-488f-b1db-e804dfc3166a
-
-
-
-https://github.com/user-attachments/assets/c9f3b480-2855-4c93-8b02-ad0ff4ab9ead
-
-
-
-https://github.com/user-attachments/assets/ba00a8c4-c4ef-4ab4-a66a-270d34526e52
-
-
-
-https://github.com/user-attachments/assets/54abc79c-d5d0-4351-91c8-10ab949f4731
-
-
-
-https://github.com/user-attachments/assets/89370876-7a57-4d03-aec2-7c8d560f3c1c
-
-
-
-https://github.com/user-attachments/assets/bb4d6853-9f79-43b2-90f3-6cd93a158070
 
 
    
