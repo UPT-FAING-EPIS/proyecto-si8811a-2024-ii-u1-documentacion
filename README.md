@@ -2,10 +2,7 @@ Manual de Usuario - Inicio de Sesión
 1. historia de usuario
 
    Desarrollo Web
-
-
-
-https://github.com/user-attachments/assets/fb4c86ac-e5bd-4a51-bde2-2cc414c5c85e
+   
 
 
 
