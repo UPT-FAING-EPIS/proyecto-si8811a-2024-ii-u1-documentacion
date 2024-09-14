@@ -33,7 +33,11 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
    Desarrollo Movil
 
-   ![image](https://github.com/user-attachments/assets/407f5518-4354-45dd-b3a8-4d24ea7e10dd)
+![image](https://github.com/user-attachments/assets/26f121ed-b329-4b20-815c-1d740c011277)
+
+![image](https://github.com/user-attachments/assets/25aeb826-1044-4ea7-bc71-0bca3cb2b8ef)
+
+![image](https://github.com/user-attachments/assets/1facd0a4-8596-4c91-9153-cde365de58d3)
 
 
 3. Arquitectura del Sistema
