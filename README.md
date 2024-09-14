@@ -30,6 +30,12 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
    
    ![image](https://github.com/user-attachments/assets/636ca495-de93-4c9b-9165-76fb65e89b26)
 
+
+   Desarrollo Movil
+
+   ![image](https://github.com/user-attachments/assets/407f5518-4354-45dd-b3a8-4d24ea7e10dd)
+
+
 3. Arquitectura del Sistema
 
 Desarrollo web
