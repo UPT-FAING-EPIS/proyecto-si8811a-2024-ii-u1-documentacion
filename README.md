@@ -32,7 +32,10 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
 3. Arquitectura del Sistema
 
-![image](https://github.com/user-attachments/assets/dd77e382-fdfa-4fa1-bca5-a063327f6d81)
+Desarrollo web
+
+![image](https://github.com/user-attachments/assets/da713d72-7f61-430b-973e-4600453d52ba)
+
 
 ![image](https://github.com/user-attachments/assets/fcf08d28-ad30-44d4-873a-b3b4ec800ba1)
 
