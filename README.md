@@ -6,6 +6,10 @@ Manual de Usuario - Inicio de Sesión
 
 
 
+https://github.com/user-attachments/assets/cbe28d73-68a4-469d-ba6e-ea1990f6a76f
+
+
+
    
 3. Especificaciones
 
