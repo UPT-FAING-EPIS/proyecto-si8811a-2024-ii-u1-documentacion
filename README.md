@@ -3,7 +3,14 @@ Manual de Usuario - Inicio de Sesión
 
    Desarrollo Web
    https://github.com/UPT-FAING-EPIS/proyecto-si8811a-2024-ii-u1-pruebas-cano-valverde/tree/feature/feature_pruebas   
-
+https://youtu.be/HW3N5lUZK30
+https://youtu.be/kVukoFvcdJc
+https://youtu.be/39KIQJcTtpM
+https://youtu.be/37J0TCnbiII
+https://youtu.be/Iy6awq4nASg
+https://youtu.be/h_f-CLEEn5Y
+https://youtu.be/St7qzknR9_A
+https://youtu.be/akh48sIgeqU
 
 
 
