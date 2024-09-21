@@ -56,8 +56,6 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
    Desarrollo Movil
 
-   ![image](https://github.com/user-attachments/assets/cc10340d-83e6-4b44-852e-659e966417b8)
-
    ![image](https://github.com/user-attachments/assets/a6a72dcc-68a4-48c2-b672-2725b587b2e2)
 
 
