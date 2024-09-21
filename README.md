@@ -58,10 +58,7 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
    ![image](https://github.com/user-attachments/assets/a6a72dcc-68a4-48c2-b672-2725b587b2e2)
 
-
-![image](https://github.com/user-attachments/assets/26f121ed-b329-4b20-815c-1d740c011277)
-
-![diagrama listo 1](https://github.com/user-attachments/assets/63aaf00b-a2c7-41ae-9d5e-c0e3d4c83514)
+   ![diagrama listo 1](https://github.com/user-attachments/assets/63aaf00b-a2c7-41ae-9d5e-c0e3d4c83514)
 
 ![image](https://github.com/user-attachments/assets/25aeb826-1044-4ea7-bc71-0bca3cb2b8ef)
 
