@@ -42,7 +42,7 @@ Manual de Usuario - Inicio de Sesión
 
    https://youtu.be/39KIQJcTtpM
    
-| Filtro Ciencieas de la Salud    | **Descripción**                                                                                                                                                                   |
+| Filtro Ciencias de la Salud     | **Descripción**                                                                                                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Como:**                       | Usuario del sistema de juegos florales                                                                                                                                           |
 | **Quiero:**                     | Filtrar los eventos por la Facultad de Ciencias de la Salud                                                                                                                      |
