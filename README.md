@@ -14,7 +14,7 @@ Manual de Usuario - Inicio de Sesión
 | Fila 3     | Dato 5     | Dato 6     |
 
 
-| **Inicio de Sesión**           | **Descripción**                                                                                                                                                                   |
+   | **Filtrar Eventos**           | **Descripción**                                                                                                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Como:**                       | Usuario del sistema de juegos florales                                                                                                                                           |
 | **Quiero:**                     | Usar un filtro para visualizar los eventos vigentes                                                                                                                              |
