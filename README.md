@@ -54,8 +54,22 @@ Manual de Usuario - Inicio de Sesión
 | **Inicio de Sesión Automático:** | Si el usuario ya ha iniciado sesión previamente en el sistema, el inicio de sesión automático permite que acceda directamente sin necesidad de introducir nuevamente las credenciales. |
 | **Infraestructura:**            | El sistema debe estar integrado con Azure Active Directory para la autenticación, y debe contar con un filtro específico para que el usuario seleccione eventos de la Facultad de Ciencias de la Salud. También debe garantizar la seguridad de la información. |
 
+   Facultad de Ingeniería
 
    https://youtu.be/37J0TCnbiII
+
+| Filtro Ingeniería               | **Descripción**                                                                                                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Como:**                       | Usuario del sistema de juegos florales                                                                                                                                           |
+| **Quiero:**                     | Filtrar los eventos por la Facultad de Ingeniería                                                                                                                                |
+| **Para que:**                   | Pueda ver solo los eventos organizados por la Facultad de Ingeniería                                                                                                             |
+| **Criterios de Aceptación**     | - El usuario debe poder aplicar un filtro que muestre únicamente eventos relacionados con la Facultad de Ingeniería.<br> - Los eventos deben estar organizados por fecha y categoría. |
+| **Pantalla de Inicio de Sesión:** | La pantalla inicial debe solicitar al usuario su correo institucional para acceder al sistema. El usuario tiene opción de iniciar sesión manualmente o automáticamente.             |
+| **Redirección a Microsoft:**    | Si el usuario selecciona autenticarse con su cuenta institucional, el sistema lo redirige a la página de inicio de sesión de Microsoft para autenticar sus credenciales.           |
+| **Autenticación:**              | Una vez autenticado, el sistema debe validar las credenciales y verificar que el usuario esté autorizado a ingresar al sistema de juegos florales. En caso de éxito, el usuario es redirigido al dashboard principal. |
+| **Inicio de Sesión Automático:** | Si el usuario ya ha iniciado sesión previamente en el sistema, el inicio de sesión automático permite que acceda directamente sin necesidad de introducir nuevamente las credenciales. |
+| **Infraestructura:**            | El sistema debe estar integrado con Azure Active Directory para la autenticación, y debe contar con un filtro específico para que el usuario seleccione eventos de la Facultad de Ingeniería. También debe garantizar la seguridad de la información. |
+
 
    https://youtu.be/Iy6awq4nASg
 
