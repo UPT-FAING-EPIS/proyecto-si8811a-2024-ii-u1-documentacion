@@ -50,8 +50,8 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 1. Diagrama de Clases
 
    Desarrollo Web
-   
-   ![image](https://github.com/user-attachments/assets/636ca495-de93-4c9b-9165-76fb65e89b26)
+
+   ![image](https://github.com/user-attachments/assets/b9c2f3b1-4d0b-4a67-9573-a62e1772ec2d)
 
 
    Desarrollo Movil
