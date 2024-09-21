@@ -7,19 +7,12 @@ Manual de Usuario - Inicio de Sesión
 
    https://youtu.be/HW3N5lUZK30
 
+| Columna 1 | Columna 2 | Columna 3 |
+|------------|------------|------------|
+| Fila 1     | Dato 1     | Dato 2     |
+| Fila 2     | Dato 3     | Dato 4     |
+| Fila 3     | Dato 5     | Dato 6     |
 
-
-   | **Filtrar Eventos**           | **Descripción**                                                                                                                                                                   |
-|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Como:**                       | Usuario del sistema de juegos florales                                                                                                                                           |
-| **Quiero:**                     | Usar un filtro para visualizar los eventos vigentes                                                                                                                              |
-| **Para que:**                   | Pueda ver solo los eventos actuales que se encuentran activos y programados                                                                                                       |
-| **Criterios de Aceptación**     | - El usuario debe poder ver solo los eventos vigentes una vez aplicado el filtro.<br> - El filtro debe mostrar eventos organizados por fecha y categoría.                          |
-| **Pantalla de Inicio de Sesión:** | La pantalla inicial debe solicitar al usuario su correo institucional para acceder al sistema. El usuario tiene opción de iniciar sesión manualmente o automáticamente.             |
-| **Redirección a Microsoft:**    | Si el usuario selecciona autenticarse con su cuenta institucional, el sistema lo redirige a la página de inicio de sesión de Microsoft para autenticar sus credenciales.           |
-| **Autenticación:**              | Una vez autenticado, el sistema debe validar las credenciales y verificar que el usuario esté autorizado a ingresar al sistema de juegos florales. En caso de éxito, el usuario es redirigido al dashboard principal. |
-| **Inicio de Sesión Automático:** | Si el usuario ya ha iniciado sesión previamente en el sistema, el inicio de sesión automático permite que acceda directamente sin necesidad de introducir nuevamente las credenciales. |
-| **Infraestructura:**            | El sistema debe estar integrado con Azure Active Directory para la autenticación, y debe contar con filtros dinámicos que permitan al usuario seleccionar y visualizar los eventos vigentes. También debe contar con un sistema de seguridad robusto para proteger los datos de autenticación y la información de los eventos. |
 
 
    Filtrar Eventos por Escuela entre otros
