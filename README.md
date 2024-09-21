@@ -60,11 +60,11 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
    ![diagrama listo 1](https://github.com/user-attachments/assets/63aaf00b-a2c7-41ae-9d5e-c0e3d4c83514)
 
-![image](https://github.com/user-attachments/assets/25aeb826-1044-4ea7-bc71-0bca3cb2b8ef)
+   ![image](https://github.com/user-attachments/assets/25aeb826-1044-4ea7-bc71-0bca3cb2b8ef)
 
-![diagrama 2 listo](https://github.com/user-attachments/assets/f143cb86-66b7-4f3a-83d9-1b87658960c9)
+   ![diagrama 2 listo](https://github.com/user-attachments/assets/f143cb86-66b7-4f3a-83d9-1b87658960c9)
 
-![image](https://github.com/user-attachments/assets/1facd0a4-8596-4c91-9153-cde365de58d3)
+   ![image](https://github.com/user-attachments/assets/1facd0a4-8596-4c91-9153-cde365de58d3)
 
 
 3. Arquitectura del Sistema
