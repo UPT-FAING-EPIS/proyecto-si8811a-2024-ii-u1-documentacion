@@ -7,6 +7,12 @@ Manual de Usuario - Inicio de Sesión
 
    https://youtu.be/HW3N5lUZK30
 
+   | Columna 1 | Columna 2 | Columna 3 |
+  |------------|------------|------------|
+  | Fila 1     | Dato 1     | Dato 2     |
+  | Fila 2     | Dato 3     | Dato 4     |
+  | Fila 3     | Dato 5     | Dato 6     |
+
    Filtrar Eventos por Escuela entre otros
 
    https://youtu.be/kVukoFvcdJc
