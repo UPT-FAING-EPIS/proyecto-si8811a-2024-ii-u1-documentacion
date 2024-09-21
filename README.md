@@ -70,7 +70,7 @@ Manual de Usuario - Inicio de Sesión
 | **Inicio de Sesión Automático:** | Si el usuario ya ha iniciado sesión previamente en el sistema, el inicio de sesión automático permite que acceda directamente sin necesidad de introducir nuevamente las credenciales. |
 | **Infraestructura:**            | El sistema debe estar integrado con Azure Active Directory para la autenticación, y debe contar con un filtro específico para que el usuario seleccione eventos de la Facultad de Ingeniería. También debe garantizar la seguridad de la información. |
 
-   Facultad y Ciencias Políticas
+   Facultad Derecho y Ciencias Políticas
 
    https://youtu.be/Iy6awq4nASg
 
