@@ -7,13 +7,6 @@ Manual de Usuario - Inicio de Sesión
 
    https://youtu.be/HW3N5lUZK30
 
-| Columna 1 | Columna 2 | Columna 3 |
-|------------|------------|------------|
-| Fila 1     | Dato 1     | Dato 2     |
-| Fila 2     | Dato 3     | Dato 4     |
-| Fila 3     | Dato 5     | Dato 6     |
-
-
    | **Filtrar Eventos**           | **Descripción**                                                                                                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Como:**                       | Usuario del sistema de juegos florales                                                                                                                                           |
@@ -25,7 +18,6 @@ Manual de Usuario - Inicio de Sesión
 | **Autenticación:**              | Una vez autenticado, el sistema debe validar las credenciales y verificar que el usuario esté autorizado a ingresar al sistema de juegos florales. En caso de éxito, el usuario es redirigido al dashboard principal. |
 | **Inicio de Sesión Automático:** | Si el usuario ya ha iniciado sesión previamente en el sistema, el inicio de sesión automático permite que acceda directamente sin necesidad de introducir nuevamente las credenciales. |
 | **Infraestructura:**            | El sistema debe estar integrado con Azure Active Directory para la autenticación, y debe contar con filtros dinámicos que permitan al usuario seleccionar y visualizar los eventos vigentes. También debe contar con un sistema de seguridad robusto para proteger los datos de autenticación y la información de los eventos. |
-
 
 
    Filtrar Eventos por Escuela entre otros
