@@ -73,6 +73,8 @@ Desarrollo Movil
 
 ![image](https://github.com/user-attachments/assets/d033f214-2ade-4d5e-9712-c33cf873ec82)
 
+![image](https://github.com/user-attachments/assets/e2ff1da5-5913-4aa1-a881-24c3ecad2228)
+
 
 4. Diagrama de Componentes
 5. Diagrama de Despliegue
