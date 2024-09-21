@@ -20,12 +20,24 @@ Manual de Usuario - Inicio de Sesión
 | **Infraestructura:**            | El sistema debe estar integrado con Azure Active Directory para la autenticación, y debe contar con filtros dinámicos que permitan al usuario seleccionar y visualizar los eventos vigentes. También debe contar con un sistema de seguridad robusto para proteger los datos de autenticación y la información de los eventos. |
 
 
-
-
-
-   Filtrar Eventos por Escuela entre otros
-
+   Filtrar Eventos por Escuela entre otros:
+   
+   Facultad Arquitectura y Urbanismo
+   
    https://youtu.be/kVukoFvcdJc
+   
+| Filtro Arquitectura y Urbanismo | **Descripción**                                                                                                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Como:**                       | Usuario del sistema de juegos florales                                                                                                                                           |
+| **Quiero:**                     | Filtrar los eventos por la Facultad de Arquitectura y Urbanismo                                                                                                                  |
+| **Para que:**                   | Pueda ver solo los eventos organizados por la Facultad de Arquitectura y Urbanismo                                                                                                |
+| **Criterios de Aceptación**     | - El usuario debe poder aplicar un filtro que muestre únicamente eventos relacionados con la Facultad de Arquitectura y Urbanismo.<br> - Los eventos deben estar organizados por fecha y categoría. |
+| **Pantalla de Inicio de Sesión:** | La pantalla inicial debe solicitar al usuario su correo institucional para acceder al sistema. El usuario tiene opción de iniciar sesión manualmente o automáticamente.             |
+| **Redirección a Microsoft:**    | Si el usuario selecciona autenticarse con su cuenta institucional, el sistema lo redirige a la página de inicio de sesión de Microsoft para autenticar sus credenciales.           |
+| **Autenticación:**              | Una vez autenticado, el sistema debe validar las credenciales y verificar que el usuario esté autorizado a ingresar al sistema de juegos florales. En caso de éxito, el usuario es redirigido al dashboard principal. |
+| **Inicio de Sesión Automático:** | Si el usuario ya ha iniciado sesión previamente en el sistema, el inicio de sesión automático permite que acceda directamente sin necesidad de introducir nuevamente las credenciales. |
+| **Infraestructura:**            | El sistema debe estar integrado con Azure Active Directory para la autenticación, y debe contar con un filtro específico para que el usuario seleccione eventos de la Facultad de Arquitectura y Urbanismo. También debe garantizar la seguridad de la información. |
+ 
 
    https://youtu.be/39KIQJcTtpM
 
