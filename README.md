@@ -69,8 +69,10 @@ Desarrollo web
 
 ![image](https://github.com/user-attachments/assets/da713d72-7f61-430b-973e-4600453d52ba)
 
+Desarrollo Movil
 
-![image](https://github.com/user-attachments/assets/fcf08d28-ad30-44d4-873a-b3b4ec800ba1)
+![image](https://github.com/user-attachments/assets/d033f214-2ade-4d5e-9712-c33cf873ec82)
+
 
 4. Diagrama de Componentes
 5. Diagrama de Despliegue
