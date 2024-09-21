@@ -7,7 +7,7 @@ Manual de Usuario - Inicio de Sesión
 
    https://youtu.be/HW3N5lUZK30
 
-| **Inicio de Sesión**           | **Descripción**                                                                                                                                                                   |
+| **Filtrar Eventos  **           | **Descripción**                                                                                                                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Como:**                       | Usuario del sistema de juegos florales                                                                                                                                           |
 | **Quiero:**                     | Usar un filtro para visualizar los eventos vigentes                                                                                                                              |
