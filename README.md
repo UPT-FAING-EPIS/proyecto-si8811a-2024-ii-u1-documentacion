@@ -175,6 +175,22 @@ Desarrollo Movil
 
 4. Diagrama de Componentes
 5. Diagrama de Despliegue
+Obtenido del Repositorio de Api back donde uso terraform como infraestructura
+https://github.com/UPT-FAING-EPIS/proyecto-si8811a-2024-ii-u1-desarrollo-api-back/tree/main
 
-![image](https://github.com/user-attachments/assets/c5c7cde7-e325-4921-91e2-2de372012335)
+Infraestructura 
+
+![image](https://github.com/user-attachments/assets/f74bf3a0-662c-4dc8-9a89-13dc59a5fad5)
+
+Backend_api 
+
+![image](https://github.com/user-attachments/assets/495c7c73-6392-4fb8-9be8-e697661165ea)
+
+mobile_app infraestructura
+
+![image](https://github.com/user-attachments/assets/5b5da772-c1b8-4c67-85c3-3819846f86fb)
+
+web_app Infraestructura
+
+![image](https://github.com/user-attachments/assets/fc87ebc4-1524-4fd0-83d3-a033a319bf37)
 
