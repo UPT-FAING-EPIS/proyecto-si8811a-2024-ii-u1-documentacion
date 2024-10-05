@@ -160,6 +160,8 @@
 
    ![diagrama 2 listo](https://github.com/user-attachments/assets/f143cb86-66b7-4f3a-83d9-1b87658960c9)
 
+   Descripción:Este diagrama de clases muestra la estructura de una aplicación, probablemente desarrollada con Flutter, que gestiona equipos, participantes y eventos. La aplicación se compone de una clase principal (MyApp), una página de inicio (MyHomePage), un servicio de autenticación (AuthService), y varias pantallas específicas para diferentes funcionalidades. La estructura incluye modelos de datos (Equipo, Participante, Evento) y utiliza navegación entre pantallas, sugiriendo una aplicación bien organizada para la gestión de torneos o eventos deportivos.
+
    API EVENTOS
 
    ![image](https://github.com/user-attachments/assets/e65e6fa5-a9f6-4203-a665-785c588f13c5)
