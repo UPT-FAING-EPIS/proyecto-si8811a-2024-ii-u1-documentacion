@@ -1,5 +1,5 @@
-Manual de Usuario
-1. historia de usuario
+# Manual de Usuario
+## 1. historia de usuario
 
    Desarrollo Web
 
@@ -122,10 +122,10 @@ Manual de Usuario
    https://youtu.be/akh48sIgeqU
 
    
-3. Especificaciones
+## 2. Especificaciones
 
    
-   2.1 Inicio de Sesión
+   ### 2.1 Inicio de Sesión
 
       Requisitos del Sistema
    
@@ -134,7 +134,7 @@ Manual de Usuario
      - Backend: Python lenguaje de programación de alto nivel, interpretado y de propósito general, conocido por su 
        simplicidad y legibilidad.
    
-   2.2 Listar Eventos
+   ### 2.2 Listar Eventos
   
      Requisitos del Sistema
   
@@ -144,8 +144,8 @@ Manual de Usuario
 
 
 
-Manual Tecnico - Inicio de Sesion y Listar Eventos
-1. Diagrama de Clases
+# Manual Tecnico
+## 1. Diagrama de Clases
 
    Desarrollo Web
 
@@ -232,7 +232,7 @@ classDiagram
 
 ```
 
-3. Arquitectura del Sistema
+## 2. Arquitectura del Sistema
 
 Desarrollo web
 
@@ -251,8 +251,7 @@ API Lugares
 ![image](https://github.com/user-attachments/assets/1a0cc968-7120-4765-805b-93633b92ff1f)
 
 
-4. Diagrama de Componentes
-5. Diagrama de Despliegue
+## 3. Diagrama de Despliegue
 Obtenido del Repositorio de Api back donde uso terraform como infraestructura
 https://github.com/UPT-FAING-EPIS/proyecto-si8811a-2024-ii-u1-desarrollo-api-back/tree/main
 
