@@ -163,6 +163,8 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación w
 
    ![diagrama listo 1](https://github.com/user-attachments/assets/63aaf00b-a2c7-41ae-9d5e-c0e3d4c83514)
 
+Descripción: Este diagrama de clases muestra la estructura de una aplicación con tres clases principales: Main, MyApplication y GeneratedPluginRegistrant. La clase Main contiene el método main(), punto de entrada de la aplicación. MyApplication hereda de GtkApplication y gestiona el ciclo de vida de la aplicación con métodos como OnCreate() y OnDestroy(). También utiliza GeneratedPluginRegistrant para registrar plugins. Esta estructura sugiere una aplicación basada en GTK, posiblemente desarrollada con Flutter para desktop, que maneja plugins y tiene una configuración inicial definida.
+
    ![diagrama 2 listo](https://github.com/user-attachments/assets/f143cb86-66b7-4f3a-83d9-1b87658960c9)
    
 
