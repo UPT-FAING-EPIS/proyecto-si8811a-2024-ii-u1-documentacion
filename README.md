@@ -307,6 +307,8 @@ API eventos
 
 ![image](https://github.com/user-attachments/assets/3820c1ea-801f-4044-8c49-703d98af396f)
 
+Descripción: La estructura sigue un patrón MVC (Model-View-Controller) con capas adicionales de Servicios y Configuración. El núcleo es 'Program.cs', que interactúa con componentes como 'EventoController.cs', 'EventoService.cs', y 'Evento.cs' (modelo). La configuración incluye 'MongoDBSettings.cs' y 'launchSettings.json'. El proyecto parece estar preparado para despliegue con Docker, como lo indica la presencia del 'Dockerfile'.
+
 API Lugares
 
 ![image](https://github.com/user-attachments/assets/1a0cc968-7120-4765-805b-93633b92ff1f)
