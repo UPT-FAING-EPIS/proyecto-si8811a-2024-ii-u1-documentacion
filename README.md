@@ -163,8 +163,62 @@
    
 
    API EVENTOS
+```mermaid
+classDiagram
+    class Lugar {
+        +String id_lugar
+        +String nombre_lugar
+        +String direccion_id
+        +int capacidad
+        +String descripcion
+        +float latitud
+        +float longitud
+        +String id_categoria
+        +int estado
+    }
 
-   ![image](https://github.com/user-attachments/assets/e65e6fa5-a9f6-4203-a665-785c588f13c5)
+    class Direccion {
+        +String direccion_id
+        +String calle
+        +String numero
+        +String ciudad
+        +String codigo_postal
+        +String pais
+        +int estado
+    }
+
+    class Categoria {
+        +String id_categoria
+        +String nombre_categoria
+        +int estado
+    }
+
+    class LugarCreate {
+        +String nombre_lugar
+        +String direccion_id
+        +int capacidad
+        +String descripcion
+        +float latitud
+        +float longitud
+        +String id_categoria
+    }
+
+    class DireccionCreate {
+        +String calle
+        +String numero
+        +String ciudad
+        +String codigo_postal
+        +String pais
+    }
+
+    class CategoriaCreate {
+        +String nombre_categoria
+    }
+
+    Lugar <|-- LugarCreate
+    Direccion <|-- DireccionCreate
+    Categoria <|-- CategoriaCreate
+```
 
 - Clase `Evento`: La clase `Evento` representa la estructura de un evento en el sistema, conteniendo propiedades como el identificador, nombre, fechas de inicio y término, facultad asociada, resultado y una descripción del evento. Esta clase se utiliza para almacenar y transferir datos relacionados con los eventos en la aplicación.
 
@@ -233,6 +287,17 @@ classDiagram
     Categoria <|-- CategoriaCreate
 
 ```
+- Clase Lugar: Representa un lugar en el sistema, con propiedades que incluyen el identificador, nombre, dirección, capacidad, descripción, coordenadas geográficas y estado. Esta clase es fundamental para la gestión de lugares dentro de la API, permitiendo operaciones relacionadas con su creación y consulta.
+
+- Clase Direccion: Define la estructura de una dirección, con atributos como identificador, calle, número, ciudad, código postal y país. Incluye un estado que permite gestionar su validez y asociación con los lugares.
+
+- Clase Categoria: Representa la categoría a la que pertenece un lugar, con propiedades que incluyen un identificador y nombre de la categoría. Su estado permite organizar los lugares según diferentes clasificaciones.
+
+- Clase LugarCreate: Extiende la clase Lugar, proporcionando un modelo simplificado para la creación de nuevos lugares. Incluye las propiedades necesarias sin el identificador y estado, facilitando la entrada de datos.
+
+- Clase DireccionCreate: Similar a Direccion, esta clase proporciona un modelo para la creación de nuevas direcciones, omitiendo el identificador y estado para simplificar la entrada de datos.
+
+- Clase CategoriaCreate: Proporciona un modelo para la creación de nuevas categorías, incluyendo solo el nombre de la categoría, lo que permite la adición sencilla de nuevas clasificaciones a la API.
 
 ## 2. Arquitectura del Sistema
 
