@@ -166,6 +166,7 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación w
 Descripción: Este diagrama de clases muestra la estructura de una aplicación con tres clases principales: Main, MyApplication y GeneratedPluginRegistrant. La clase Main contiene el método main(), punto de entrada de la aplicación. MyApplication hereda de GtkApplication y gestiona el ciclo de vida de la aplicación con métodos como OnCreate() y OnDestroy(). También utiliza GeneratedPluginRegistrant para registrar plugins. Esta estructura sugiere una aplicación basada en GTK, posiblemente desarrollada con Flutter para desktop, que maneja plugins y tiene una configuración inicial definida.
 
    ![diagrama 2 listo](https://github.com/user-attachments/assets/f143cb86-66b7-4f3a-83d9-1b87658960c9)
+   
 Descripción: Este diagrama de clases muestra la estructura de una aplicación Flutter para Windows. Consta de cuatro clases principales: Main (punto de entrada), Runner (inicializa la aplicación), FlutterWindow (maneja la ventana principal de Flutter) y Win32Window (implementación específica para Windows). La jerarquía ilustra cómo la aplicación Flutter se integra con la plataforma Windows, gestionando el ciclo de vida de la ventana y los eventos del sistema. Esta estructura permite que una aplicación Flutter se ejecute como una aplicación de escritorio nativa en Windows.
    
 
