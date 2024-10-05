@@ -176,9 +176,6 @@ La clase EventoService se encarga de la lógica de negocio relacionada con la ge
 Clase EventoController
 El EventoController actúa como intermediario entre las solicitudes HTTP y el servicio de eventos. Se encarga de recibir y procesar las solicitudes relacionadas con los eventos, delegando la lógica de negocio al EventoService y devolviendo las respuestas adecuadas al cliente.
 
-Clase Program
-La clase Program es el punto de entrada de la aplicación ASP.NET Core, donde se configuran los servicios, la conexión a MongoDB y la documentación de la API mediante Swagger. Esta clase establece el entorno en el que la aplicación se ejecutará y gestiona la configuración inicial del servidor.
-
 3. Arquitectura del Sistema
 
 Desarrollo web
