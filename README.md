@@ -160,7 +160,7 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
    ![diagrama 2 listo](https://github.com/user-attachments/assets/f143cb86-66b7-4f3a-83d9-1b87658960c9)
 
-   API
+   API EVENTOS
 
    ![image](https://github.com/user-attachments/assets/e65e6fa5-a9f6-4203-a665-785c588f13c5)
 
@@ -182,7 +182,7 @@ Desarrollo Movil
 
 ![image](https://github.com/user-attachments/assets/e2ff1da5-5913-4aa1-a881-24c3ecad2228)
 
-API
+API eventos
 
 ![image](https://github.com/user-attachments/assets/3820c1ea-801f-4044-8c49-703d98af396f)
 
