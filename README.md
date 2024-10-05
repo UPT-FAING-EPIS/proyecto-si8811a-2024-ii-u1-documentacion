@@ -158,7 +158,8 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación w
    Desarrollo Movil
 
    ![image](https://github.com/user-attachments/assets/a6a72dcc-68a4-48c2-b672-2725b587b2e2)
-   Descripción: Este diagrama de clases muestra la estructura de una aplicación, probablemente desarrollada con Flutter, que gestiona equipos, participantes y eventos. La aplicación se compone de una clase principal (MyApp), una página de inicio (MyHomePage), un servicio de autenticación (AuthService), y varias pantallas específicas para diferentes funcionalidades. La estructura incluye modelos de datos (Equipo, Participante, Evento) y utiliza navegación entre pantallas, sugiriendo una aplicación bien organizada para la gestión de torneos o eventos deportivos.
+   
+   Descripción: Este diagrama de clases muestra la estructura de una aplicación, desarrollada con Flutter, que gestiona equipos, participantes y eventos. La aplicación se compone de una clase principal (MyApp), una página de inicio (MyHomePage), un servicio de autenticación (AuthService), y varias pantallas específicas para diferentes funcionalidades. La estructura incluye modelos de datos (Equipo, Participante, Evento) y utiliza navegación entre pantallas, sugiriendo una aplicación bien organizada para la gestión de torneos o eventos deportivos.
 
    ![diagrama listo 1](https://github.com/user-attachments/assets/63aaf00b-a2c7-41ae-9d5e-c0e3d4c83514)
 
