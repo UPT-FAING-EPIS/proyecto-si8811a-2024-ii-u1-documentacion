@@ -148,8 +148,109 @@
 ## 1. Diagrama de Clases
 
    Desarrollo Web
+```mermaid
+classDiagram
+    class CountdownTimer {
+        +calculateTimeLeft()
+        +render()
+        -timeLeft: Object
+    }
+    
+    class EventCard {
+        +render()
+    }
+    
+    class Footer {
+        +render()
+    }
+    
+    class Header {
+        +render()
+    }
+    
+    class Home {
+        +render()
+    }
+    
+    class Navbar {
+        +render()
+    }
+    
+    class Event {
+        +nombre: String
+        +fechaInicio: String
+        +fechaTermino: String
+        +facultad: String
+    }
+    
+    class AuthSlice {
+        +onChecking()
+        +onLogin(payload)
+        +onLogout(payload)
+    }
+    
+    class EventSlice {
+        +onAddNewEvent(payload)
+        +onDeleteEvent()
+        +onLoadEvents(payload)
+        +onSetActiveEvent(payload)
+    }
+    
+    class Store {
+        +configureStore()
+    }
+    
+    class useAuthStore {
+        +loginWithGoogle()
+        +checkAuthToken()
+        +startLogout()
+    }
+    
+    class useEventStore {
+        +startLoadingEvents()
+    }
+    
+    class categoriasApi {
+        +getCategorias()
+    }
+    
+    class equipoApi {
+        +getEquipos()
+    }
+    
+    class eventoApi {
+        +getEvents()
+    }
+    
+    class lugaresApi {
+        +getLugares()
+    }
+    
+    class participanteApi {
+        +getParticipantes()
+    }
 
-   ![image](https://github.com/user-attachments/assets/b9c2f3b1-4d0b-4a67-9573-a62e1772ec2d)
+    Header --> Navbar
+    Home --> Header
+    Home --> Footer
+    Home --> CountdownTimer
+    Home --> EventCard
+    Home --> Event
+    
+    EventCard --> Event
+    
+    AuthSlice --> Store
+    EventSlice --> Store
+    
+    useAuthStore --> AuthSlice
+    useEventStore --> EventSlice
+
+    categoriasApi --> Home
+    equipoApi --> Home
+    eventoApi --> Home
+    lugaresApi --> Home
+    participanteApi --> Home
+    ```
 
 Descripción: Este diagrama de clases muestra la estructura de una aplicación web .Consta de tres clases principales: "App", "Login" y "Eventos". La clase "App" es la clase central, con un método render(), y se conecta a las otras dos clases mediante relaciones etiquetadas como "Renders". La clase "Login" tiene métodos para manejar el inicio de sesión (handleLogin()) y renderizar su interfaz. La clase "Eventos" maneja la visualización y carga de eventos, con atributos para eventos, estado de carga y errores, y métodos para renderizar y obtener eventos (fetchEvents()). Esta estructura sugiere una arquitectura de componentes típica de frameworks modernos de desarrollo web, donde cada componente es responsable de su propia lógica y representación visual.
 
