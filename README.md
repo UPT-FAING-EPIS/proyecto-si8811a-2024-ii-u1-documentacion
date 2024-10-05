@@ -295,6 +295,8 @@ Desarrollo web
 
 ![image](https://github.com/user-attachments/assets/da713d72-7f61-430b-973e-4600453d52ba)
 
+Descripción Este diagrama muestra la arquitectura del proyecto de desarrollo web, probablemente utilizando React y Vite. La estructura se divide en carpetas 'public' y 'src', con 'index.html' como punto de entrada. El archivo 'main.jsx' inicializa la aplicación, que renderiza componentes como 'eventos.jsx' y 'login.jsx'. Se incluyen archivos de configuración para herramientas como ESLint, PostCSS y Tailwind, así como archivos de gestión de paquetes y documentación. Esta organización refleja una arquitectura moderna de desarrollo frontend con separación clara de componentes y configuraciones.
+
 Desarrollo Movil
 
 ![image](https://github.com/user-attachments/assets/e2ff1da5-5913-4aa1-a881-24c3ecad2228)
