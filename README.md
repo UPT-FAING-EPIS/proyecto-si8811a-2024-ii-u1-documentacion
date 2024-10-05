@@ -172,7 +172,7 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
 - Clase `EventoController`: El `EventoController` actúa como intermediario entre las solicitudes HTTP y el servicio de eventos. Se encarga de recibir y procesar las solicitudes relacionadas con los eventos, delegando la lógica de negocio al `EventoService` y devolviendo las respuestas adecuadas al cliente.
 
-## API LUGARES
+   API LUGARES
 
 ```mermaid
 classDiagram
