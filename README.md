@@ -186,6 +186,9 @@ API eventos
 
 ![image](https://github.com/user-attachments/assets/3820c1ea-801f-4044-8c49-703d98af396f)
 
+API Lugares
+
+![image](https://github.com/user-attachments/assets/1a0cc968-7120-4765-805b-93633b92ff1f)
 
 
 4. Diagrama de Componentes
