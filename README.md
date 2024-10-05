@@ -164,6 +164,20 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
    ![image](https://github.com/user-attachments/assets/e65e6fa5-a9f6-4203-a665-785c588f13c5)
 
+Clase Evento
+La clase Evento representa la estructura de un evento en el sistema, conteniendo propiedades como el identificador, nombre, fechas de inicio y término, facultad asociada, resultado y una descripción del evento. Esta clase se utiliza para almacenar y transferir datos relacionados con los eventos en la aplicación.
+
+Clase MongoDBSettings
+La clase MongoDBSettings encapsula la configuración necesaria para conectarse a una base de datos de MongoDB, incluyendo la cadena de conexión y el nombre de la base de datos. Proporciona una forma de gestionar y acceder a estos parámetros de configuración de manera estructurada.
+
+Clase EventoService
+La clase EventoService se encarga de la lógica de negocio relacionada con la gestión de eventos. Se encarga de interactuar con la base de datos de MongoDB, facilitando operaciones de lectura y escritura sobre los documentos de eventos y asegurando que la lógica del sistema se mantenga separada de los detalles de la base de datos.
+
+Clase EventoController
+El EventoController actúa como intermediario entre las solicitudes HTTP y el servicio de eventos. Se encarga de recibir y procesar las solicitudes relacionadas con los eventos, delegando la lógica de negocio al EventoService y devolviendo las respuestas adecuadas al cliente.
+
+Clase Program
+La clase Program es el punto de entrada de la aplicación ASP.NET Core, donde se configuran los servicios, la conexión a MongoDB y la documentación de la API mediante Swagger. Esta clase establece el entorno en el que la aplicación se ejecutará y gestiona la configuración inicial del servidor.
 
 3. Arquitectura del Sistema
 
@@ -179,20 +193,7 @@ API
 
 ![image](https://github.com/user-attachments/assets/3820c1ea-801f-4044-8c49-703d98af396f)
 
-Clase Evento
-La clase Evento representa la estructura de un evento en el sistema, conteniendo propiedades como el identificador, nombre, fechas de inicio y término, facultad asociada, resultado y una descripción del evento. Esta clase se utiliza para almacenar y transferir datos relacionados con los eventos en la aplicación.
 
-Clase MongoDBSettings
-La clase MongoDBSettings encapsula la configuración necesaria para conectarse a una base de datos de MongoDB, incluyendo la cadena de conexión y el nombre de la base de datos. Proporciona una forma de gestionar y acceder a estos parámetros de configuración de manera estructurada.
-
-Clase EventoService
-La clase EventoService se encarga de la lógica de negocio relacionada con la gestión de eventos. Se encarga de interactuar con la base de datos de MongoDB, facilitando operaciones de lectura y escritura sobre los documentos de eventos y asegurando que la lógica del sistema se mantenga separada de los detalles de la base de datos.
-
-Clase EventoController
-El EventoController actúa como intermediario entre las solicitudes HTTP y el servicio de eventos. Se encarga de recibir y procesar las solicitudes relacionadas con los eventos, delegando la lógica de negocio al EventoService y devolviendo las respuestas adecuadas al cliente.
-
-Clase Program
-La clase Program es el punto de entrada de la aplicación ASP.NET Core, donde se configuran los servicios, la conexión a MongoDB y la documentación de la API mediante Swagger. Esta clase establece el entorno en el que la aplicación se ejecutará y gestiona la configuración inicial del servidor.
 
 4. Diagrama de Componentes
 5. Diagrama de Despliegue
