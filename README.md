@@ -166,59 +166,41 @@
    API EVENTOS
 ```mermaid
 classDiagram
-    class Lugar {
-        +String id_lugar
-        +String nombre_lugar
-        +String direccion_id
-        +int capacidad
-        +String descripcion
-        +float latitud
-        +float longitud
-        +String id_categoria
-        +int estado
+    class Evento {
+        +String? Id
+        +String Nombre
+        +DateTime FechaInicio
+        +DateTime FechaTermino
+        +String Facultad
+        +String Resultado
+        +String Descripcion
     }
 
-    class Direccion {
-        +String direccion_id
-        +String calle
-        +String numero
-        +String ciudad
-        +String codigo_postal
-        +String pais
-        +int estado
+    class MongoDBSettings {
+        +String ConnectionString
+        +String DatabaseName
     }
 
-    class Categoria {
-        +String id_categoria
-        +String nombre_categoria
-        +int estado
+    class EventoService {
+        +List<Evento> GetAsync()
+        +Evento GetByIdAsync(String id)
+        +Evento CreateAsync(Evento nuevoEvento)
+        +Evento UpdateAsync(String id, Evento evento)
+        +void DeleteAsync(String id)
     }
 
-    class LugarCreate {
-        +String nombre_lugar
-        +String direccion_id
-        +int capacidad
-        +String descripcion
-        +float latitud
-        +float longitud
-        +String id_categoria
+    class EventoController {
+        +ActionResult<IEnumerable<Evento>> GetEventos()
+        +ActionResult<Evento> GetEvento(String id)
+        +ActionResult<Evento> CreateEvento(Evento evento)
+        +ActionResult<Evento> UpdateEvento(String id, Evento evento)
+        +ActionResult DeleteEvento(String id)
     }
 
-    class DireccionCreate {
-        +String calle
-        +String numero
-        +String ciudad
-        +String codigo_postal
-        +String pais
-    }
+    EventoController --> EventoService : uses
+    EventoService --> Evento : manages
+    EventoService --> MongoDBSettings : configures
 
-    class CategoriaCreate {
-        +String nombre_categoria
-    }
-
-    Lugar <|-- LugarCreate
-    Direccion <|-- DireccionCreate
-    Categoria <|-- CategoriaCreate
 ```
 
 - Clase `Evento`: La clase `Evento` representa la estructura de un evento en el sistema, conteniendo propiedades como el identificador, nombre, fechas de inicio y término, facultad asociada, resultado y una descripción del evento. Esta clase se utiliza para almacenar y transferir datos relacionados con los eventos en la aplicación.
