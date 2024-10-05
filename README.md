@@ -274,7 +274,7 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación c
 Descripción: Este diagrama de clases muestra la estructura de una aplicación Flutter para Windows. Consta de cuatro clases principales: Main (punto de entrada), Runner (inicializa la aplicación), FlutterWindow (maneja la ventana principal de Flutter) y Win32Window (implementación específica para Windows). La jerarquía ilustra cómo la aplicación Flutter se integra con la plataforma Windows, gestionando el ciclo de vida de la ventana y los eventos del sistema. Esta estructura permite que una aplicación Flutter se ejecute como una aplicación de escritorio nativa en Windows.
    
 
-   API EVENTOS
+   ### API EVENTOS
 
 ```mermaid
 classDiagram
