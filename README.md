@@ -276,7 +276,7 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación F
 
    API EVENTOS
 
-```mermaid
+```
 classDiagram
     class Evento {
         +String? Id
