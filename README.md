@@ -147,7 +147,7 @@
 # Manual Tecnico
 ## 1. Diagrama de Clases
 
-   Desarrollo Web
+   ### Desarrollo Web
    
 ```mermaid
 
@@ -259,7 +259,7 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación w
 
 
 
-   Desarrollo Movil
+   ### Desarrollo Movil
 
    ![image](https://github.com/user-attachments/assets/a6a72dcc-68a4-48c2-b672-2725b587b2e2)
    
@@ -276,7 +276,7 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación F
 
    API EVENTOS
 
-```
+```mermaid
 classDiagram
     class Evento {
         +String? Id
