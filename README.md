@@ -1,7 +1,7 @@
 # Manual de Usuario
 ## 1. historia de usuario
 
-   Desarrollo Web
+   ### Desarrollo Web
 
    Activar filtro de eventos
 
@@ -149,7 +149,7 @@
 
    ### Desarrollo Web
    
-```
+```mermaid
 
 classDiagram
     class CountdownTimer {
@@ -254,12 +254,10 @@ classDiagram
     participanteApi --> Home
 
     ```
-
+```
 Descripción: Este diagrama de clases muestra la estructura de una aplicación web .Consta de tres clases principales: "App", "Login" y "Eventos". La clase "App" es la clase central, con un método render(), y se conecta a las otras dos clases mediante relaciones etiquetadas como "Renders". La clase "Login" tiene métodos para manejar el inicio de sesión (handleLogin()) y renderizar su interfaz. La clase "Eventos" maneja la visualización y carga de eventos, con atributos para eventos, estado de carga y errores, y métodos para renderizar y obtener eventos (fetchEvents()). Esta estructura sugiere una arquitectura de componentes típica de frameworks modernos de desarrollo web, donde cada componente es responsable de su propia lógica y representación visual.
 
-
-
-   ### Desarrollo Movil
+### Desarrollo Movil
 
    ![image](https://github.com/user-attachments/assets/a6a72dcc-68a4-48c2-b672-2725b587b2e2)
    
@@ -275,8 +273,10 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación F
    
 
    ### API EVENTOS
-
 ```
+```
+```mermaid
+
 classDiagram
     class Evento {
         +String? Id
@@ -325,7 +325,7 @@ classDiagram
 
    API LUGARES
 
-```
+```mermaid
 classDiagram
     class Lugar {
         +String id_lugar
