@@ -148,7 +148,9 @@
 ## 1. Diagrama de Clases
 
    Desarrollo Web
+   
 ```mermaid
+
 classDiagram
     class CountdownTimer {
         +calculateTimeLeft()
@@ -250,6 +252,7 @@ classDiagram
     eventoApi --> Home
     lugaresApi --> Home
     participanteApi --> Home
+
     ```
 
 Descripción: Este diagrama de clases muestra la estructura de una aplicación web .Consta de tres clases principales: "App", "Login" y "Eventos". La clase "App" es la clase central, con un método render(), y se conecta a las otras dos clases mediante relaciones etiquetadas como "Renders". La clase "Login" tiene métodos para manejar el inicio de sesión (handleLogin()) y renderizar su interfaz. La clase "Eventos" maneja la visualización y carga de eventos, con atributos para eventos, estado de carga y errores, y métodos para renderizar y obtener eventos (fetchEvents()). Esta estructura sugiere una arquitectura de componentes típica de frameworks modernos de desarrollo web, donde cada componente es responsable de su propia lógica y representación visual.
