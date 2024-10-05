@@ -293,7 +293,8 @@ classDiagram
 
 Desarrollo web
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/20590a30-b605-4251-ad2b-f80df775d2cc)
+
 
 
 Descripción Este diagrama muestra la arquitectura del proyecto de desarrollo web, probablemente utilizando React y Vite. La estructura se divide en carpetas 'public' y 'src', con 'index.html' como punto de entrada. El archivo 'main.jsx' inicializa la aplicación, que renderiza componentes como 'eventos.jsx' y 'login.jsx'. Se incluyen archivos de configuración para herramientas como ESLint, PostCSS y Tailwind, así como archivos de gestión de paquetes y documentación. Esta organización refleja una arquitectura moderna de desarrollo frontend con separación clara de componentes y configuraciones.
