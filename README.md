@@ -172,6 +172,66 @@ Manual Tecnico - Inicio de Sesion y Listar Eventos
 
 - Clase `EventoController`: El `EventoController` actúa como intermediario entre las solicitudes HTTP y el servicio de eventos. Se encarga de recibir y procesar las solicitudes relacionadas con los eventos, delegando la lógica de negocio al `EventoService` y devolviendo las respuestas adecuadas al cliente.
 
+## API LUGARES
+
+```mermaid
+classDiagram
+    class Lugar {
+        +String id_lugar
+        +String nombre_lugar
+        +String direccion_id
+        +int capacidad
+        +String descripcion
+        +float latitud
+        +float longitud
+        +String id_categoria
+        +int estado
+    }
+
+    class Direccion {
+        +String direccion_id
+        +String calle
+        +String numero
+        +String ciudad
+        +String codigo_postal
+        +String pais
+        +int estado
+    }
+
+    class Categoria {
+        +String id_categoria
+        +String nombre_categoria
+        +int estado
+    }
+
+    class LugarCreate {
+        +String nombre_lugar
+        +String direccion_id
+        +int capacidad
+        +String descripcion
+        +float latitud
+        +float longitud
+        +String id_categoria
+    }
+
+    class DireccionCreate {
+        +String calle
+        +String numero
+        +String ciudad
+        +String codigo_postal
+        +String pais
+    }
+
+    class CategoriaCreate {
+        +String nombre_categoria
+    }
+
+    Lugar <|-- LugarCreate
+    Direccion <|-- DireccionCreate
+    Categoria <|-- CategoriaCreate
+
+```
+
 3. Arquitectura del Sistema
 
 Desarrollo web
