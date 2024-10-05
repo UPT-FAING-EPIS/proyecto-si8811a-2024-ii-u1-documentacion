@@ -149,7 +149,7 @@
 
    ### Desarrollo Web
    
-```mermaid
+```
 
 classDiagram
     class CountdownTimer {
@@ -276,7 +276,7 @@ Descripción: Este diagrama de clases muestra la estructura de una aplicación F
 
    ### API EVENTOS
 
-```mermaid
+```
 classDiagram
     class Evento {
         +String? Id
@@ -325,7 +325,7 @@ classDiagram
 
    API LUGARES
 
-```mermaid
+```
 classDiagram
     class Lugar {
         +String id_lugar
