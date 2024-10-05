@@ -1,4 +1,4 @@
-Manual de Usuario - Inicio de Sesión
+Manual de Usuario
 1. historia de usuario
 
    Desarrollo Web
