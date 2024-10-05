@@ -313,6 +313,8 @@ API Lugares
 
 ![image](https://github.com/user-attachments/assets/1a0cc968-7120-4765-805b-93633b92ff1f)
 
+Descripción: Se divide en dos carpetas principales: 'app' y 'tests'. La carpeta 'app' contiene los archivos core de la aplicación (main.py, models.py, crud.py, schemas.py), mientras que 'tests' incluye archivos para pruebas unitarias. El proyecto utiliza Docker para el despliegue (Dockerfile y docker-compose.yml) y maneja dependencias con requirements.txt. Esta estructura sugiere una API bien organizada con separación clara entre código de producción y pruebas.
+
 
 ## 3. Diagrama de Despliegue
 Obtenido del Repositorio de Api back donde uso terraform como infraestructura
