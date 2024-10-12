@@ -282,6 +282,7 @@ Infraestructura
 
 ![image](https://github.com/user-attachments/assets/f74bf3a0-662c-4dc8-9a89-13dc59a5fad5
 
+
 Descripción: Este diagrama representa la infraestructura de un sistema de aplicación distribuida. Muestra un grupo de recursos principal que contiene tres módulos clave: Backend API, Web App y Mobile App. Cada módulo tiene su propia configuración interna, referenciando variables y recursos específicos. Fuera del grupo de recursos principal, se observa una definición del propio grupo de recursos y un módulo adicional que se divide en tres submódulos correspondientes a los componentes principales. La estructura del diagrama sugiere el uso de Infrastructure as Code (IaC) para definir y gestionar los recursos de manera declarativa, posiblemente utilizando herramientas como Terraform.
 
 Backend_api 
