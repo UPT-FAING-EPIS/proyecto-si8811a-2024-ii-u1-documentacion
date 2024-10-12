@@ -127,12 +127,11 @@
    
    ### 2.1 Inicio de Sesión
 
-      Requisitos del Sistema
+   Requisitos del Sistema
    
-     - Pagina Web: React librería necesaria para construir la interfaz de usuario
-     - App Mobile: Flutter framework utilizado para crear aplicaciones móviles, web y de escritorio
-     - Backend: Python lenguaje de programación de alto nivel, interpretado y de propósito general, conocido por su 
-       simplicidad y legibilidad.
+   - Pagina Web: React librería necesaria para construir la interfaz de usuario
+- App Mobile: Flutter framework utilizado para crear aplicaciones móviles, web y de escritorio
+   - Backend: Python lenguaje de programación de alto nivel, interpretado y de propósito general, conocido por su simplicidad y legibilidad.
    
    ### 2.2 Listar Eventos
   
