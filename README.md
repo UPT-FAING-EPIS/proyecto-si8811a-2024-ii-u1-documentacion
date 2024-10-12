@@ -289,6 +289,8 @@ Backend_api
 
 ![image](https://github.com/user-attachments/assets/495c7c73-6392-4fb8-9be8-e697661165ea)
 
+Este diagrama representa la infraestructura de un sistema backend API. El diagrama muestra un grupo de recursos principal que contiene varios componentes clave: un módulo de asignación de roles (azurerm_role_assignment), un clúster de Kubernetes (azurerm_kubernetes_cluster), un registro de contenedores (azurerm_container_registry), y dos definiciones de grupos de recursos (azurerm_resource_group). Fuera del grupo principal, hay un módulo que se divide en tres submódulos: kubernetes_cluster, role_assignment, y container_registry, que corresponden a los componentes dentro del grupo de recursos. Esta estructura sugiere una arquitectura de microservicios containerizada, utilizando Kubernetes para la orquestación, con un registro de contenedores para almacenar las imágenes de los servicios. El diagrama indica el uso de Infrastructure as Code para definir y gestionar estos recursos de forma declarativa, probablemente utilizando Terraform u otra herramienta similar de IaC.
+
 mobile_app infraestructura
 
 ![image](https://github.com/user-attachments/assets/5b5da772-c1b8-4c67-85c3-3819846f86fb)
