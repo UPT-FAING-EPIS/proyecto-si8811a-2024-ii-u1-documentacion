@@ -121,6 +121,12 @@
 
    https://youtu.be/akh48sIgeqU
 
+
+
+
+https://github.com/user-attachments/assets/cabf093c-97bc-45e7-af8f-ae30acee10c3
+
+
    
 ## 2. Especificaciones
 
