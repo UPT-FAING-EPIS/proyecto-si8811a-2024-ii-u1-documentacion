@@ -141,8 +141,21 @@ https://github.com/user-attachments/assets/cabf093c-97bc-45e7-af8f-ae30acee10c3
 | **Infraestructura:**            | El sistema debe estar integrado con la base de datos para almacenar y recuperar la información de los equipos y sus integrantes. Debe contar con medidas de seguridad para proteger los datos de los equipos y sus miembros.|
 
 
+Opcion Eventos
+
 https://github.com/user-attachments/assets/aac7600d-8043-4e45-b77b-9136a44c5b3f
 
+| Facultades en general           | **Descripción**                                                                                                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Como:**                       | Usuario de la aplicación                                                                                                                                    |
+| **Quiero:**                     | Acceder a la opción de eventos en la aplicación                                                                                                                                  |
+| **Para que:**                   | Pueda visualizar los eventos programados y ver sus descripciones detalladas                                                                                 |
+| **Criterios de Aceptación**     | - El usuario debe poder ver una lista de todos los eventos programados.<br>- Cada evento debe mostrar información básica como título, fecha y hora.<br>- Debe existir una opción para ver la descripción detallada de cada evento.<br>- Los eventos deben estar organizados de manera cronológica o por categorías.<br>- Debe haber una función de búsqueda o filtrado de eventos.             |
+| **Pantalla de Eventos:**        | La pantalla principal de eventos debe mostrar una lista o grid de todos los eventos programados con información resumida.          |
+| **Visualizacion de Detalles:**  | Al seleccionar un evento específico, se debe mostrar una nueva vista con la descripción completa del evento, incluyendo detalles como ubicación, organizadores, y cualquier otra información relevante.              |
+| **Filtro y Busqueda:**          | Debe existir una funcionalidad para filtrar eventos por fecha, categoría, o buscar por palabras clave.|
+| **Visualizacion de detalles:**  | Al seleccionar un equipo, se debe mostrar información detallada incluyendo la lista de integrantes actuales.|
+| **Infraestructura:**            | El sistema debe estar conectado a una base de datos que almacene la información de los eventos. Debe actualizarse en tiempo real o con frecuencia para mostrar la información más reciente.|
 
 
 
