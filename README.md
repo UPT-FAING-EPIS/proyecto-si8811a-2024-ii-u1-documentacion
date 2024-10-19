@@ -122,10 +122,23 @@
    https://youtu.be/akh48sIgeqU
 
 
+### Desarrollo Móvil
 
+Opcion Equipos
 
 https://github.com/user-attachments/assets/cabf093c-97bc-45e7-af8f-ae30acee10c3
 
+| Facultades en general           | **Descripción**                                                                                                                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Como:**                       | Usuario de la aplicacion de gestion de equipos                                                                                                                                    |
+| **Quiero:**                     | Acceder a la opcion de equipos en la aplicacion                                                                                                                                   |
+| **Para que:**                   | Pueda visualizar los equipos registrados, registrar nuevos equipos y añadir nuevos integrantes a los equipos existentes                                                           |
+| **Criterios de Aceptación**     | - El usuario debe poder ver una lista de todos los equipos registrados.<br>- Debe existir una opción para registrar nuevos equipos.<br>- Se debe permitir añadir nuevos integrantes a equipos existentes.<br>- La información de los equipos debe estar organizada de manera clara y accesible.            |
+| **Pantalla de Equipos:**        | La pantalla inicial debe solicitar al usuario su correo institucional para acceder al sistema. El usuario tiene opción de iniciar sesión manualmente o automáticamente.           |
+| **Registro de Nuevo Equipo:**   | Debe haber un formulario o proceso para registrar un nuevo equipo, solicitando información relevante como nombre del equipo, categoría, etc.                                      |
+| **Añadir Nuevos Integrantes:**  | Cada equipo debe tener una opción para añadir nuevos integrantes, solicitando la información necesaria del nuevo miembro.|
+| **Visualizacion de detalles:**  | Al seleccionar un equipo, se debe mostrar información detallada incluyendo la lista de integrantes actuales.|
+| **Infraestructura:**            | El sistema debe estar integrado con la base de datos para almacenar y recuperar la información de los equipos y sus integrantes. Debe contar con medidas de seguridad para proteger los datos de los equipos y sus miembros.|
 
 
 https://github.com/user-attachments/assets/aac7600d-8043-4e45-b77b-9136a44c5b3f
