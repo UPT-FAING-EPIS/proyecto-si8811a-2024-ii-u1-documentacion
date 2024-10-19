@@ -127,6 +127,28 @@
 https://github.com/user-attachments/assets/cabf093c-97bc-45e7-af8f-ae30acee10c3
 
 
+
+https://github.com/user-attachments/assets/aac7600d-8043-4e45-b77b-9136a44c5b3f
+
+
+
+
+https://github.com/user-attachments/assets/83516ad6-5a99-45fb-bf96-21286fd675ee
+
+
+
+
+https://github.com/user-attachments/assets/237cc57e-3d3d-4a18-8381-e554fd5eb0c7
+
+
+
+https://github.com/user-attachments/assets/1d5f0493-87d1-4f73-94a0-28643a35fca1
+
+
+
+https://github.com/user-attachments/assets/86b6aeec-7e82-46d7-9615-d203e4dd7299
+
+
    
 ## 2. Especificaciones
 
