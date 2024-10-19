@@ -185,8 +185,6 @@ Opcion Participantes
 
 https://github.com/user-attachments/assets/237cc57e-3d3d-4a18-8381-e554fd5eb0c7
 
-# Historia de Usuario: Gestión de Participantes
-
 | Aspecto | Descripción |
 |---------|-------------|
 | **Como:** | Usuario de la aplicación |
