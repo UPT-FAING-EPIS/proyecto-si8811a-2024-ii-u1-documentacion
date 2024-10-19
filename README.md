@@ -128,8 +128,6 @@ Ingresar al sistema
 
 https://github.com/user-attachments/assets/86b6aeec-7e82-46d7-9615-d203e4dd7299
 
-# Historia de Usuario: Ingreso al Sistema
-
 | Aspecto | Descripción |
 |---------|-------------|
 | **Como:** | Usuario de la aplicación (estudiante o personal universitario) |
