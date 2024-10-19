@@ -181,9 +181,27 @@ https://github.com/user-attachments/assets/83516ad6-5a99-45fb-bf96-21286fd675ee
 | **Infraestructura:** | El sistema debe estar conectado a una base de datos segura que almacene la información de los docentes, con medidas de protección adecuadas para datos personales. |
 
 
+Opcion Participantes
 
 https://github.com/user-attachments/assets/237cc57e-3d3d-4a18-8381-e554fd5eb0c7
 
+# Historia de Usuario: Gestión de Participantes
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Como:** | Usuario de la aplicación |
+| **Quiero:** | Acceder a la opción de Participantes en la aplicación |
+| **Para que:** | Pueda visualizar los participantes registrados y buscar participantes específicos por nombre |
+| **Criterios de Aceptación** | - El usuario debe poder ver una lista de todos los participantes registrados.<br>- Cada entrada de participante debe mostrar información básica como nombre y algún identificador único.<br>- Debe existir una función de búsqueda que permita encontrar participantes por nombre.<br>- La lista de participantes debe ser fácilmente navegable y organizada.<br>- Los resultados de búsqueda deben actualizarse en tiempo real o con mínima latencia. |
+| **Pantalla de Participantes:** | La pantalla principal debe mostrar una lista ordenada de todos los participantes con su información básica. |
+| **Visualización de Detalles:** | Al seleccionar un participante específico, se debe mostrar una vista detallada con información adicional como contacto, eventos en los que participa, etc. |
+| **Funcionalidad de Búsqueda:** | Implementar un campo de búsqueda prominente que permita a los usuarios buscar participantes por nombre. La búsqueda debe ser sensible a caracteres parciales. |
+| **Filtrado Avanzado:** | Opcionalmente, incluir filtros adicionales como búsqueda por evento, fecha de registro, etc. |
+| **Registro de Nuevo Participante:** | Debe existir una opción para agregar nuevos participantes al sistema, solicitando la información necesaria. |
+| **Edición de Información:** | Permitir la edición de la información de los participantes para mantener los datos actualizados. |
+| **Organización de la Lista:** | La lista de participantes debe poder ordenarse por diferentes criterios (alfabéticamente, por fecha de registro, etc.). |
+| **Exportación de Datos:** | Opción para exportar la lista de participantes en formatos comunes (por ejemplo, CSV o PDF). |
+| **Infraestructura:** | El sistema debe estar conectado a una base de datos que permita búsquedas rápidas y eficientes. La funcionalidad de búsqueda debe optimizarse para grandes volúmenes de datos. |
 
 
 https://github.com/user-attachments/assets/1d5f0493-87d1-4f73-94a0-28643a35fca1
