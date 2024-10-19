@@ -201,9 +201,26 @@ https://github.com/user-attachments/assets/237cc57e-3d3d-4a18-8381-e554fd5eb0c7
 | **Exportación de Datos:** | Opción para exportar la lista de participantes en formatos comunes (por ejemplo, CSV o PDF). |
 | **Infraestructura:** | El sistema debe estar conectado a una base de datos que permita búsquedas rápidas y eficientes. La funcionalidad de búsqueda debe optimizarse para grandes volúmenes de datos. |
 
+Opcion Ubicaciones
 
 https://github.com/user-attachments/assets/1d5f0493-87d1-4f73-94a0-28643a35fca1
 
+| Aspecto | Descripción |
+|---------|-------------|
+| **Como:** | Usuario de la aplicación |
+| **Quiero:** | Acceder a la opción de Ubicaciones en la aplicación |
+| **Para que:** | Pueda visualizar las diferentes localizaciones de actividades, eventos e instalaciones de la universidad |
+| **Criterios de Aceptación** | - El usuario debe poder ver una lista o mapa de todas las ubicaciones relevantes.<br>- Cada ubicación debe mostrar información básica como nombre y tipo (evento, actividad o instalación).<br>- Debe existir una función para ver detalles de cada ubicación.<br>- Las ubicaciones deben estar categorizadas (por ejemplo, edificios académicos, instalaciones deportivas, etc.).<br>- Debe haber una función de búsqueda y filtrado de ubicaciones. |
+| **Pantalla de Ubicaciones:** | La pantalla principal debe mostrar un mapa interactivo o una lista organizada de todas las ubicaciones. |
+| **Visualización de Detalles:** | Al seleccionar una ubicación específica, se debe mostrar información detallada como dirección exacta, horarios de apertura (si aplica), eventos o actividades programadas, etc. |
+| **Categorización:** | Las ubicaciones deben estar claramente categorizadas (por ejemplo, aulas, laboratorios, auditorios, cafeterías, instalaciones deportivas). |
+| **Funcionalidad de Búsqueda:** | Implementar un campo de búsqueda que permita a los usuarios buscar ubicaciones por nombre, tipo o evento asociado. |
+| **Filtrado:** | Incluir opciones de filtrado por tipo de ubicación, disponibilidad, próximos eventos, etc. |
+| **Integración con Eventos:** | Mostrar los eventos o actividades programadas en cada ubicación, con enlaces a la información detallada del evento. |
+| **Indicaciones de Ruta:** | Opcionalmente, incluir una función para obtener indicaciones de cómo llegar a una ubicación específica desde la posición actual del usuario. |
+| **Actualización de Información:** | Permitir a los administradores actualizar la información de las ubicaciones, añadir nuevas o modificar existentes. |
+| **Accesibilidad:** | Incluir información sobre la accesibilidad de cada ubicación para personas con movilidad reducida. |
+| **Infraestructura:** | El sistema debe estar conectado a una base de datos geoespacial que permita una gestión eficiente de las ubicaciones y su representación en un mapa. |
 
 
 https://github.com/user-attachments/assets/86b6aeec-7e82-46d7-9615-d203e4dd7299
