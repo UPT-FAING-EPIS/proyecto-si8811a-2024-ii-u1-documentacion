@@ -124,6 +124,29 @@
 
 ### Desarrollo Móvil
 
+Ingresar al sistema
+
+https://github.com/user-attachments/assets/86b6aeec-7e82-46d7-9615-d203e4dd7299
+
+# Historia de Usuario: Ingreso al Sistema
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Como:** | Usuario de la aplicación (estudiante o personal universitario) |
+| **Quiero:** | Ingresar al sistema usando mi cuenta Microsoft proporcionada por la universidad |
+| **Para que:** | Pueda acceder al menú principal de la aplicación y sus diferentes funcionalidades |
+| **Criterios de Aceptación** | - El usuario debe poder iniciar sesión utilizando las credenciales de su cuenta Microsoft universitaria.<br>- El proceso de autenticación debe ser seguro y cumplir con los estándares de seguridad de la universidad.<br>- Tras un inicio de sesión exitoso, el usuario debe ser dirigido al menú principal de la aplicación.<br>- El menú principal debe mostrar claramente todas las opciones disponibles: Eventos, Ubicaciones, Equipos, Participantes, Coordinadores Docentes, Coordinadores Estudiantes.<br>- La sesión del usuario debe mantenerse activa durante un período razonable de tiempo.<br>- Debe haber una opción clara para cerrar sesión. |
+| **Pantalla de Inicio de Sesión:** | Debe presentar una interfaz limpia y sencilla con la opción de iniciar sesión con Microsoft, posiblemente utilizando el botón estándar de "Iniciar sesión con Microsoft". |
+| **Proceso de Autenticación:** | Utilizar el protocolo de autenticación OAuth 2.0 para la integración con Microsoft Azure AD (Active Directory) de la universidad. |
+| **Redirección:** | Tras la autenticación exitosa, redirigir automáticamente al usuario al menú principal de la aplicación. |
+| **Menú Principal:** | Mostrar un menú claro y bien organizado con iconos y etiquetas para cada opción: Eventos, Ubicaciones, Equipos, Participantes, Coordinadores Docentes, Coordinadores Estudiantes. |
+| **Personalización:** | Mostrar el nombre y posiblemente la foto de perfil del usuario en el menú principal para confirmar la identidad de la sesión activa. |
+| **Gestión de Sesión:** | Implementar un sistema de gestión de sesiones que mantenga al usuario conectado de forma segura y le permita navegar entre las diferentes secciones sin necesidad de volver a autenticarse. |
+| **Cierre de Sesión:** | Proporcionar una opción clara y accesible para cerrar sesión en cualquier momento. |
+| **Manejo de Errores:** | Mostrar mensajes de error claros y útiles si hay problemas durante el inicio de sesión, ofreciendo orientación sobre cómo resolverlos. |
+| **Recuperación de Cuenta:** | Proporcionar información o enlaces sobre cómo recuperar el acceso a la cuenta Microsoft universitaria en caso de problemas. |
+| **Compatibilidad:** | Asegurar que el proceso de inicio de sesión y el menú principal sean totalmente funcionales y visualmente coherentes en diferentes dispositivos y tamaños de pantalla. |
+
 Opcion Equipos
 
 https://github.com/user-attachments/assets/cabf093c-97bc-45e7-af8f-ae30acee10c3
@@ -222,8 +245,6 @@ https://github.com/user-attachments/assets/1d5f0493-87d1-4f73-94a0-28643a35fca1
 | **Accesibilidad:** | Incluir información sobre la accesibilidad de cada ubicación para personas con movilidad reducida. |
 | **Infraestructura:** | El sistema debe estar conectado a una base de datos geoespacial que permita una gestión eficiente de las ubicaciones y su representación en un mapa. |
 
-
-https://github.com/user-attachments/assets/86b6aeec-7e82-46d7-9615-d203e4dd7299
 
 
    
