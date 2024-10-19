@@ -158,9 +158,25 @@ https://github.com/user-attachments/assets/aac7600d-8043-4e45-b77b-9136a44c5b3f
 | **Infraestructura:**            | El sistema debe estar conectado a una base de datos que almacene la información de los eventos. Debe actualizarse en tiempo real o con frecuencia para mostrar la información más reciente.|
 
 
+Opcion Coordinadores Docentes
 
 https://github.com/user-attachments/assets/83516ad6-5a99-45fb-bf96-21286fd675ee
 
+
+| Aspecto | Descripción |
+|---------|-------------|
+| **Como:** | Usuario de la aplicación con acceso a la gestión de personal docente |
+| **Quiero:** | Acceder a la opción de Coordinadores Docentes en la aplicación |
+| **Para que:** | Pueda visualizar la lista de docentes agregados y ver sus datos personales y profesionales |
+| **Criterios de Aceptación** | - El usuario debe poder ver una lista de todos los coordinadores docentes registrados.<br>- Cada entrada de docente debe mostrar información básica como nombre, grado y número de teléfono.<br>- Debe existir una opción para ver detalles adicionales de cada docente.<br>- La lista de docentes debe ser fácilmente navegable y organizada.<br>- Debe haber funciones de búsqueda y filtrado de docentes. |
+| **Pantalla de Coordinadores Docentes:** | La pantalla principal debe mostrar una lista ordenada de todos los coordinadores docentes con sus datos básicos (nombre, grado, teléfono). |
+| **Visualización de Detalles:** | Al seleccionar un docente específico, se debe mostrar una vista detallada con información adicional como correo electrónico, especialidad, cursos asignados, etc. |
+| **Filtrado y Búsqueda:** | Implementar funcionalidad para buscar docentes por nombre o filtrar por grado académico u otros criterios relevantes. |
+| **Agregar Nuevo Docente:** | Debe existir una opción para agregar nuevos coordinadores docentes al sistema, solicitando la información necesaria. |
+| **Edición de Información:** | Permitir la edición de la información de los docentes para mantener los datos actualizados. |
+| **Organización de la Lista:** | La lista de docentes debe poder ordenarse por diferentes criterios (alfabéticamente, por grado, etc.). |
+| **Exportación de Datos:** | Opción para exportar la lista de docentes en formatos comunes (por ejemplo, CSV o PDF). |
+| **Infraestructura:** | El sistema debe estar conectado a una base de datos segura que almacene la información de los docentes, con medidas de protección adecuadas para datos personales. |
 
 
 
