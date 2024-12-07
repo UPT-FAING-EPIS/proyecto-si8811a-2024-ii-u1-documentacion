@@ -274,6 +274,29 @@ sequenceDiagram
 
 
 - Requerimiento RF-5: Visualizar Participantes.
+```mermaid
+sequenceDiagram
+   actor Usuario
+   participant App
+   participant Sistema
+   
+   Usuario->>App: 1. Inicia la App
+   App->>Usuario: 2. Muestra página de bienvenida y botón de inicio de sesión
+   
+   Usuario->>App: 3. Ingresa correo institucional y contraseña
+   Usuario->>App: Click en botón para ingresar
+   
+   App->>Sistema: Valida credenciales Microsoft
+   Sistema->>App: Confirma autenticación
+   
+   App->>Usuario: 5. Muestra pantalla de inicio con apartados de juegos florales y apartado de eventos
+   
+   Usuario->>App: 6. Click en apartado de eventos
+   
+   App->>Sistema: Solicita listado de participantes
+   Sistema->>App: Retorna listado de participantes
+   App->>Usuario: 7. Muestra listado de participantes con opciones de agregar y editar
+```
 
 |**Caso de Uso**|**Visualizar Participantes.**|
 | :- | :- |
