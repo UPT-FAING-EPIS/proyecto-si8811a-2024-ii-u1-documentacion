@@ -224,8 +224,9 @@ App: Aplicación móvil, un software diseñado específicamente para dispositivo
 
 Escenario de Funcionalidad:
 
-| Fuente     | Usuario                                                                 |
+| Item | Descripcion|
 |------------|-------------------------------------------------------------------------|
+| Fuente     | Usuario                                                                 |
 | Estímulo   | Necesidad de inscribir equipos, consultar información, visualizar ubicaciones y puntajes |
 | Artefacto  | Aplicativo móvil (aplicación o software móvil)                           |
 | Entorno    | Entorno digital                                                         |
