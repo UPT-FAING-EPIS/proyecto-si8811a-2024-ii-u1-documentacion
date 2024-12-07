@@ -44,11 +44,11 @@ Versión 1.0
    
    1.2. [Alcance](#Alcance)
    
-   1.3. [Definición, siglas y abreviaturas](#Definición,siglasyabreviaturas)
+   1.3. [Definición, siglas y abreviaturas](#Definición,-siglas-y-abreviaturas)
    
    1.4. [Referencias](#Referencias)
    
-   1.5. [Visión General](#VisiónGeneral)
+   1.5. [Visión General](#Visión-General)
    
 2. Representación Arquitectónica
    
