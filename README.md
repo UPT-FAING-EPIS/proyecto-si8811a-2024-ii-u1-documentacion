@@ -38,7 +38,7 @@ Versión 1.0
 
 # **ÍNDICE**
 
-1. [Introducción](##Introducción)
+1. [Introducción](#Introducción)
    
    1.1. Propósito
    
