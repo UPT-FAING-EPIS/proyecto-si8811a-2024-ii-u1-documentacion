@@ -325,7 +325,10 @@ Desarrollar una solución tecnológica que permita a los equipos universitarios 
 
 3\.5.1 Diagrama de Despliegue
 
-![image](https://github.com/user-attachments/assets/89b39d7b-9d2a-4d68-9f10-2e97ec193638)
+Para mas informacion consultar el siguiente repositorio: https://github.com/UPT-FAING-EPIS/proyecto-si8811a-2024-ii-u1-desarrollo-api-back
+
+![image](https://github.com/user-attachments/assets/171f1b04-28a9-4972-9daa-6e4f546d7582)
+
 
 
 
