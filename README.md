@@ -48,44 +48,44 @@ Versión 1.0
 # **ÍNDICE**
 
 1. Introducción
-   1. Propósito
-   1. Alcance
-   1. Definición, siglas y abreviaturas
-   1. Referencias
-   1. Visión General
-1. Representación Arquitectónica
-   1. Escenarios
-   1. Vista Lógica
-   1. Vista del Proceso
-   1. Vista del desarrollo
-   1. Vista Física
-1. Objetivos y limitaciones arquitectónicas
-   1. Disponibilidad
-   1. Seguridad
-   1. Adaptabilidad
-   1. Rendimiento
-1. Análisis de Requerimientos
-   1. Requerimientos funcionales
-   1. Requerimientos no funcionales
-1. Vistas de Caso de Uso
-Diagramas de Casos de Uso
-1. Vista Lógica	17
+   1.1. Propósito
+   1.2. Alcance
+   1.3. Definición, siglas y abreviaturas
+   1.4. Referencias
+   1.5. Visión General
+2. Representación Arquitectónica
+   2.1. Escenarios
+   2.2. Vista Lógica
+   2.3. Vista del Proceso
+   2.4. Vista del desarrollo
+   2.5. Vista Física
+3. Objetivos y limitaciones arquitectónicas
+   3. Disponibilidad
+   3. Seguridad
+   3. Adaptabilidad
+   3. Rendimiento
+4. Análisis de Requerimientos
+   4. Requerimientos funcionales
+   4. Requerimientos no funcionales
+5. Vistas de Caso de Uso
+   5.1 Diagramas de Casos de Uso
+6. Vista Lógica	17
    1. Diagrama Contextual	17
-1. Vista de Procesos	18
+7. Vista de Procesos	18
    1. Diagrama de Proceso Actual	18
    1. Diagrama de Proceso Propuesto	18
-1. Vista de Despliegue	19
+8. Vista de Despliegue	19
    1. Diagrama de Contenedor	19
-1. Vista de Implementación	20
+9. Vista de Implementación	20
    1. Diagrama de Componentes	20
-1. Vista de Datos	22
+10. Vista de Datos	22
    1. Diagrama Entidad Relación	22
-1. Calidad	24
-   1. Escenario de Seguridad	25
-   1. Escenario de Usabilidad	26
-   1. Escenario de Adaptabilidad	27
-   1. Escenario de Disponibilidad	28
-   1. Otro Escenario	28
+11. Calidad	24
+   11.1 Escenario de Seguridad	25
+   11.2 Escenario de Usabilidad	26
+   11.3 Escenario de Adaptabilidad	27
+   11.4 Escenario de Disponibilidad	28
+   11.5 Otro Escenario	28
 
 **Informe de SAD**
 
