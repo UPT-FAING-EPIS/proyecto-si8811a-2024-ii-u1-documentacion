@@ -48,43 +48,81 @@ Versión 1.0
 # **ÍNDICE**
 
 1. Introducción
+   
    1.1. Propósito
+   
    1.2. Alcance
+   
    1.3. Definición, siglas y abreviaturas
+   
    1.4. Referencias
+   
    1.5. Visión General
+   
 2. Representación Arquitectónica
+   
    2.1. Escenarios
+   
    2.2. Vista Lógica
+
    2.3. Vista del Proceso
+
    2.4. Vista del desarrollo
+
    2.5. Vista Física
+   
 3. Objetivos y limitaciones arquitectónicas
+
    3. Disponibilidad
+
    3. Seguridad
+
    3. Adaptabilidad
+
    3. Rendimiento
+
 4. Análisis de Requerimientos
-   4. Requerimientos funcionales
-   4. Requerimientos no funcionales
+
+   4.1. Requerimientos funcionales
+
+   4.2. Requerimientos no funcionales
+
 5. Vistas de Caso de Uso
+
    5.1 Diagramas de Casos de Uso
+
 6. Vista Lógica
+
    6.1. Diagrama Contextual
+
 7. Vista de Procesos
+
    7.1. Diagrama de Proceso Actual
+
    7.2. Diagrama de Proceso Propuesto
+
 8. Vista de Despliegue
+
    8.1. Diagrama de Contenedor
+
 9. Vista de Implementación
+
    9.1. Diagrama de Componentes
+
 10. Vista de Datos
+    
    10.1. Diagrama Entidad Relación
+   
 11. Calidad
+
    11.1. Escenario de Seguridad
+   
    11.2. Escenario de Usabilidad
+   
    11.3. Escenario de Adaptabilidad
+   
    11.4. Escenario de Disponibilidad
+   
    11.5. Otro Escenario
 
 # **Informe de SAD**
