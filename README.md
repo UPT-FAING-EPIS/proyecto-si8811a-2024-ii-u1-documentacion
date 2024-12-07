@@ -38,7 +38,7 @@ Versión 1.0
 
 # **ÍNDICE**
 
-1. [Introducción](##Introducción)
+1. [Introducción](## Introducción)
    
    1.1. Propósito
    
@@ -118,7 +118,7 @@ Versión 1.0
 
 # **Informe de SAD**
 
-##Introducción
+## Introducción
 1.1. Propósito
 
 El propósito de nuestro proyecto es desarrollar un aplicativo móvil que facilite la inscripción y gestión de equipos participantes en los juegos de actividades florales universitarias, optimizando los procesos actuales y promoviendo una mayor participación estudiantil.
