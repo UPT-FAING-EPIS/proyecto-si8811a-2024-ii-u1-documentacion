@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/834e61cf-320c-4177-8c59-878a86e1c324)
 
 **UNIVERSIDAD PRIVADA DE TACNA**
-# **FACULTAD DE INGENIERÍA**
+**FACULTAD DE INGENIERÍA**
 **Escuela Profesional de Ingeniería de Sistemas**
 
 
@@ -21,11 +21,8 @@ Arenas Paz Soldan, Miguel Jesus (2017059282)
 
 Lizárraga Pomareda, Sergio Pedro (2020066921)
 
-Tacna – Perú
 
-2024
-
-| **CONTROL DE VERSIONES** |     |     |     |     |     |
+# **CONTROL DE VERSIONES**
 |:-------------------------:|-----|-----|-----|-----|-----|
 | **Versión**               | **Hecha por** | **Revisada por** | **Aprobada por** | **Fecha** | **Motivo** |
 | 1.0                       |     |     |     | 12/11/2024 | Versión 1.0 |
