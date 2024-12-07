@@ -62,7 +62,7 @@ Versión 1.0
 
    2.5. Vista Física
    
-3. Objetivos y limitaciones arquitectónicas
+4. Objetivos y limitaciones arquitectónicas
 
    3. Disponibilidad
 
@@ -72,35 +72,35 @@ Versión 1.0
 
    3. Rendimiento
 
-4. Análisis de Requerimientos
+5. Análisis de Requerimientos
 
    4.1. Requerimientos funcionales
 
    4.2. Requerimientos no funcionales
 
-5. Vistas de Caso de Uso
+6. Vistas de Caso de Uso
 
    5.1 Diagramas de Casos de Uso
 
-6. Vista Lógica
+7. Vista Lógica
 
    6.1. Diagrama Contextual
 
-7. Vista de Procesos
+8. Vista de Procesos
 
    7.1. Diagrama de Proceso Actual
 
    7.2. Diagrama de Proceso Propuesto
 
-8. Vista de Despliegue
+9. Vista de Despliegue
 
    8.1. Diagrama de Contenedor
 
-9. Vista de Implementación
+10. Vista de Implementación
 
    9.1. Diagrama de Componentes
 
-10. Vista de Datos
+11. Vista de Datos
     
    10.1. Diagrama Entidad Relación
    
@@ -193,6 +193,112 @@ Desarrollar una solución tecnológica que permita a los equipos universitarios 
 
 
 1. Vista Lógica:
+
+   ```mermaid
+
+classDiagram
+    class CountdownTimer {
+        +calculateTimeLeft()
+        +render()
+        -timeLeft: Object
+    }
+    
+    class EventCard {
+        +render()
+    }
+    
+    class Footer {
+        +render()
+    }
+    
+    class Header {
+        +render()
+    }
+    
+    class Home {
+        +render()
+    }
+    
+    class Navbar {
+        +render()
+    }
+    
+    class Event {
+        +nombre: String
+        +fechaInicio: String
+        +fechaTermino: String
+        +facultad: String
+    }
+    
+    class AuthSlice {
+        +onChecking()
+        +onLogin(payload)
+        +onLogout(payload)
+    }
+    
+    class EventSlice {
+        +onAddNewEvent(payload)
+        +onDeleteEvent()
+        +onLoadEvents(payload)
+        +onSetActiveEvent(payload)
+    }
+    
+    class Store {
+        +configureStore()
+    }
+    
+    class useAuthStore {
+        +loginWithGoogle()
+        +checkAuthToken()
+        +startLogout()
+    }
+    
+    class useEventStore {
+        +startLoadingEvents()
+    }
+    
+    class categoriasApi {
+        +getCategorias()
+    }
+    
+    class equipoApi {
+        +getEquipos()
+    }
+    
+    class eventoApi {
+        +getEvents()
+    }
+    
+    class lugaresApi {
+        +getLugares()
+    }
+    
+    class participanteApi {
+        +getParticipantes()
+    }
+
+    Header --> Navbar
+    Home --> Header
+    Home --> Footer
+    Home --> CountdownTimer
+    Home --> EventCard
+    Home --> Event
+    
+    EventCard --> Event
+    
+    AuthSlice --> Store
+    EventSlice --> Store
+    
+    useAuthStore --> AuthSlice
+    useEventStore --> EventSlice
+
+    categoriasApi --> Home
+    equipoApi --> Home
+    eventoApi --> Home
+    lugaresApi --> Home
+    participanteApi --> Home
+
+    ```   ```
 
 1. Diagrama de Subsistemas (paquetes)
 
