@@ -258,6 +258,20 @@ sequenceDiagram
 |**Postcondición**|<p>El usuario podrá visualizar la información que se ha mostrado y podrá interactuar con la ubicación</p><p>mostrada en Google Maps.</p>|
 
 - Requerimiento RF-4: Visualizar Equipos
+```mermaid
+sequenceDiagram
+   actor Usuario
+   participant Sistema
+   
+   Sistema->>Usuario: 1. Muestra menú principal con 6 apartados (Eventos, Ubicaciones, Equipos, Participantes, Coordinadores Docentes, Coordinadores Estudiantes)
+   
+   Usuario->>Sistema: 2. Ingresa a apartado de Equipos
+   
+   Sistema->>Usuario: 3. Muestra lista de equipos registrados con:
+   Note over Sistema,Usuario: - Lista de equipos- Participantes por equipo- Buscador de equipos
+   
+   Note over Usuario: El usuario puede visualizarla información mostrada
+```
 
 |**Caso de Uso**|**Visualizar Equipos**|
 | :- | :- |
