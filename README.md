@@ -194,6 +194,19 @@ Desarrollar una solución tecnológica que permita a los equipos universitarios 
 
 1. Vista Lógica
 
+
+1. Diagrama de Subsistemas (paquetes)
+
+1. Diagrama de Secuencia (vista de diseño)
+
+1. Diagrama de Colaboración (vista de diseño)
+
+
+
+1. Diagrama de Objetos
+
+1. Diagrama de Clases
+
 ```mermaid
 
    classDiagram
@@ -286,18 +299,6 @@ Desarrollar una solución tecnológica que permita a los equipos universitarios 
     EventosScreen --> Evento : Uses
     EventsListScreen --> Evento : Uses
 ```
-1. Diagrama de Subsistemas (paquetes)
-
-1. Diagrama de Secuencia (vista de diseño)
-
-1. Diagrama de Colaboración (vista de diseño)
-
-
-
-1. Diagrama de Objetos
-
-1. Diagrama de Clases
-
 
 1. Diagrama de Base de Datos
 
