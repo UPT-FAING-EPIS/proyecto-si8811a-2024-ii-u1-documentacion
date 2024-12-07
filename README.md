@@ -192,8 +192,102 @@ Desarrollar una solución tecnológica que permita a los equipos universitarios 
 ![image](https://github.com/user-attachments/assets/edd9c4cb-755b-4a09-ac8e-b2971e446fde)
 
 
-1. Vista Lógica:
+1. Vista Lógica
 
+```mermaid
+
+   classDiagram
+    class MyApp {
+        +MyApp()
+        +Widget build(BuildContext context)
+    }
+
+    class MyHomePage {
+        +MyHomePage(String title, GlobalKey navigatorKey)
+        +Widget build(BuildContext context)
+        +void _login()
+        +void _navigateToMenu()
+    }
+
+    class AuthService {
+        +AuthService(GlobalKey navigatorKey)
+        +Future login()
+        +Future logout()
+    }
+
+    class MenuScreen {
+        +MenuScreen(String username)
+        +Widget build(BuildContext context)
+        +void _logout(BuildContext context)
+        +Widget _buildCard(String title, String imagePath, String color, Widget? destination)
+    }
+
+    class EquiposScreen {
+        +EquiposScreen()
+        +Widget build(BuildContext context)
+        +Future fetchEquipos()
+    }
+
+    class ParticipantsScreen {
+        +ParticipantsScreen()
+        +Widget build(BuildContext context)
+        +Future fetchParticipants()
+    }
+
+    class EventosScreen {
+        +EventosScreen()
+        +Widget build(BuildContext context)
+        +Future fetchEvents()
+    }
+
+    class EventsListScreen {
+        +EventsListScreen()
+        +Widget build(BuildContext context)
+        +Future fetchEvents()
+    }
+
+    class Equipo {
+        +String id
+        +String nombre
+        +String detalle
+        +List participants
+        +factory Equipo.fromJson(Map json)
+    }
+
+    class Participant {
+        +String id
+        +String nombre
+        +String detalle
+        +String equipoId
+        +factory Participant.fromJson(Map json)
+    }
+
+    class Evento {
+        +String id
+        +String nombre
+        +String fechainicio
+        +String fechaTermino
+        +String facultad
+        +factory Evento.fromJson(Map json)
+    }
+
+    MyApp --> MyHomePage : Uses
+    MyHomePage --> AuthService : Uses
+    MyHomePage --> MenuScreen : Navigates to
+    AuthService --> EquiposScreen : Navigates to
+    AuthService --> ParticipantsScreen : Navigates to
+    AuthService --> EventosScreen : Navigates to
+    MenuScreen --> EquiposScreen : Navigates to
+    MenuScreen --> ParticipantsScreen : Navigates to
+    MenuScreen --> EventosScreen : Navigates to
+    MenuScreen --> EventsListScreen : Navigates to
+    EquiposScreen --> Equipo : Uses
+    ParticipantsScreen --> Participant : Uses
+    EventosScreen --> Evento : Uses
+    EventsListScreen --> Evento : Uses
+
+diagrama;
+```
 1. Diagrama de Subsistemas (paquetes)
 
 1. Diagrama de Secuencia (vista de diseño)
