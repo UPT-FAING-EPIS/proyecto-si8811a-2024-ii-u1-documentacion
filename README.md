@@ -313,7 +313,7 @@ sequenceDiagram
 |**Postcondición**|<p>El usuario podrá contactar a los coordinadores</p><p>docentes por medio de su número.</p>|
 
 - Requerimiento RF-7: Visualizar Coordinadores Estudiantes.
-```
+```mermaid
 sequenceDiagram
     actor Usuario
     participant App
