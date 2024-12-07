@@ -314,7 +314,6 @@ sequenceDiagram
 
 - Requerimiento RF-7: Visualizar Coordinadores Estudiantes.
 
-```mermaid
 sequenceDiagram
     actor Usuario
     participant App
