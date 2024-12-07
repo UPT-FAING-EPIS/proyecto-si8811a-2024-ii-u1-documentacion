@@ -226,17 +226,11 @@ App: Aplicación móvil, un software diseñado específicamente para dispositivo
 Escenario de Funcionalidad:
 
 |**Fuente** |` `Usuario|
-| :-: | :- |
 |**Estimulo** | |
 
 |Necesidad de inscribir equipos, consultar información, visualizar ubicaciones y puntajes|
 | :- |
 
-|||
-| :-: | :- |
-
-||
-| :- |
 
 |||
 | :-: | :- |
