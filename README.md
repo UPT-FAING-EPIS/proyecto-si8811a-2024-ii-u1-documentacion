@@ -285,8 +285,6 @@ Desarrollar una solución tecnológica que permita a los equipos universitarios 
     ParticipantsScreen --> Participant : Uses
     EventosScreen --> Evento : Uses
     EventsListScreen --> Evento : Uses
-
-diagrama;
 ```
 1. Diagrama de Subsistemas (paquetes)
 
