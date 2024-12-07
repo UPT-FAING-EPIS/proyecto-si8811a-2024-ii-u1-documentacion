@@ -314,6 +314,28 @@ sequenceDiagram
 
 - Requerimiento RF-7: Visualizar Coordinadores Estudiantes.
 
+sequenceDiagram
+    actor Usuario
+    participant App
+    participant Sistema
+    
+    Usuario->>App: 1. Inicia la App
+    App->>Usuario: 2. Muestra página de bienvenida y botón de inicio de sesión
+    
+    Usuario->>App: 3. Ingresa correo institucional y contraseña
+    Usuario->>App: Click en botón para ingresar
+    
+    App->>Sistema: Valida credenciales Microsoft
+    Sistema->>App: Confirma autenticación
+    
+    App->>Usuario: 5. Muestra pantalla de inicio con apartados de juegos florales y coordinadores
+    
+    Usuario->>App: 6. Click en apartado de Coordinadores Estudiantes
+    
+    App->>Sistema: Solicita información de coordinadores
+    Sistema->>App: Retorna listado de coordinadores
+    App->>Usuario: 7. Muestra listado de coordinadores estudiantes con información de contacto
+
 |**Caso de Uso**|**Visualizar Coordinadores Estudiantes.**|
 | :- | :- |
 |**Actores**|Miembro UPT.|
