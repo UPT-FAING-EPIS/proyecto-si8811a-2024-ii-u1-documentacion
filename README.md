@@ -138,20 +138,22 @@ Facilitar la inscripción y gestión de equipos participantes en los juegos de a
 
 1) <a name="a)​cuadro_de_requerimientos_funcionales_"></a>Cuadro de Requerimientos funcionales Inicial:
 
-|**ID**|**Requerimiento**|**Descripción**|
-| :-: | :- | :-: |
-|<p></p><p></p><p>RF1</p>|<p></p><p>Autenticación y Usuarios</p>|<p>- Inicio de sesión mediante cuentas Microsoft</p><p>- Roles diferenciados (administrador y usuario estándar)</p><p>- Cierre de sesión seguro</p>|
-|<p></p><p></p><p>RF2</p>|<p></p><p></p><p>Gestión de Eventos</p>|<p>- Crear, editar, eliminar y visualizar eventos</p><p>- Asignar fechas y ubicaciones a eventos</p><p>- Gestionar estados de eventos</p>|
-|<p></p><p></p><p>RF3</p>|<p></p><p>Gestión de Participantes</p>|<p>- Registro y administración de participantes</p><p>- Asignación de participantes a eventos</p><p>- Control de información personal</p>|
+| **ID**  | **Requerimiento**        | **Descripción**                                                                                              |
+|:-------:|:------------------------:|:------------------------------------------------------------------------------------------------------------:|
+| **RF1** | **Autenticación y Usuarios** | - Inicio de sesión mediante cuentas Microsoft <br> - Roles diferenciados (administrador y usuario estándar) <br> - Cierre de sesión seguro |
+| **RF2** | **Gestión de Eventos**    | - Crear, editar, eliminar y visualizar eventos <br> - Asignar fechas y ubicaciones a eventos <br> - Gestionar estados de eventos |
+| **RF3** | **Gestión de Participantes** | - Registro y administración de participantes <br> - Asignación de participantes a eventos <br> - Control de información personal |
+
 
 1) <a name="b)​cuadro_de_requerimientos_no_funcional"></a>Cuadro de Requerimientos No funcionales:
 
-|**ID**|**Requerimiento**|**Descripción**|
-| :-: | :-: | :-: |
-|<p></p><p></p><p>RNF1</p>|<p></p><p></p><p>Seguridad</p>|<p>- Autenticación segura con Microsoft</p><p>- Protección de datos personales</p><p>- Control de acceso basado en roles</p>|
-|<p></p><p></p><p>RNF2</p>|<p></p><p></p><p>Usabilidad</p>|<p>- Interfaz intuitiva y responsive</p><p>- Tiempos de respuesta rápidos</p><p>- Diseño adaptable a diferentes dispositivos</p>|
-|<p></p><p></p><p>RNF3</p>|<p></p><p></p><p>Rendimiento</p>|<p>- Carga rápida de datos</p><p>- Optimización de recursos</p><p>- Manejo eficiente de la memoria</p>|
-|<p></p><p></p><p>RNF4</p>|<p></p><p></p><p>Mantenibilidad</p>|<p>- Código modular y documentado</p><p>- Facilidad de actualización</p><p>- Gestión de versiones</p>|
+| **ID**  | **Requerimiento** | **Descripción**                                                                                                                                      |
+|:-------:|:-----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **RNF1** | **Seguridad**      | - Autenticación segura con Microsoft <br> - Protección de datos personales <br> - Control de acceso basado en roles                                 |
+| **RNF2** | **Usabilidad**     | - Interfaz intuitiva y responsive <br> - Tiempos de respuesta rápidos <br> - Diseño adaptable a diferentes dispositivos                              |
+| **RNF3** | **Rendimiento**    | - Carga rápida de datos <br> - Optimización de recursos <br> - Manejo eficiente de la memoria                                                      |
+| **RNF4** | **Mantenibilidad** | - Código modular y documentado <br> - Facilidad de actualización <br> - Gestión de versiones                                                       |
+
 
 1) <a name="c)​cuadro_de_requerimientos_funcionales_"></a>Cuadro de Requerimientos funcionales Final:
 
