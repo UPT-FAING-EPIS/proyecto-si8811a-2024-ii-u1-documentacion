@@ -189,7 +189,7 @@ Desarrollar una solución tecnológica que permita a los equipos universitarios 
 
 3\.1.1. Diagramas de Casos de Uso
 
-![image](https://github.com/user-attachments/assets/80829e09-069b-469a-b33d-a72223d08348)
+![image](https://github.com/user-attachments/assets/edd9c4cb-755b-4a09-ac8e-b2971e446fde)
 
 
 1. Vista Lógica:
