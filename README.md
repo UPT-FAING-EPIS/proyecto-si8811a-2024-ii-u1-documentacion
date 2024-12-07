@@ -227,7 +227,23 @@ sequenceDiagram
 ```
 
 - Requerimiento RF-2: Visualizar Eventos
-
+```mermaid
+sequenceDiagram
+   actor Usuario
+   participant Sistema
+   participant GoogleMaps
+   
+   Sistema->>Usuario: 1. Muestra menú principal con 6 apartados (Eventos, Ubicaciones, Equipos, Participantes, Coordinadores Docentes, Coordinadores Estudiantes)
+   
+   Usuario->>Sistema: 2. Ingresa a apartado de Ubicaciones
+   
+   Sistema->>Usuario: 3. Muestra lista de ubicaciones por evento
+   Sistema->>GoogleMaps: 4. Solicita integración con mapa
+   GoogleMaps->>Sistema: 5. Retorna vista del mapa
+   Sistema->>Usuario: 6. Muestra ubicaciones en Google Maps
+   
+   Note over Usuario: El usuario puede visualizar einteractuar con las ubicacionesen Google Maps
+```
 |**Caso de Uso**|**Visualizar Eventos**|
 | :- | :- |
 |**Actores**|Miembro UPT|
