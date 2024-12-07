@@ -25,7 +25,7 @@ Tacna – Perú
 
 2024
 
-|CONTROL DE VERSIONES||||||
+|CONTROL DE VERSIONES|
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
 |1\.0||||<p></p><p></p><p>12/11/2024</p>|<p></p><p></p><p>Versión 1.0</p>|
