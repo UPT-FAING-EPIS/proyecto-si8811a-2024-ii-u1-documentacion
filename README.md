@@ -93,11 +93,13 @@ Facilitar la inscripción y gestión de equipos participantes en los juegos de a
 1. Organigrama:
 
 
-<table><tr><th colspan="1" valign="top">Administrador</th><th colspan="1" valign="top"><p>- Coordinador General: Encargado de supervisar y coordinar todas las actividades del proyecto.</p><p>- Coordinador Técnico: Responsable de la dirección técnica y el desarrollo de la plataforma web.</p></th><th colspan="1" rowspan="2" valign="top"><p></p><p></p><p></p><p></p><p></p><p>-Rene Poma.</p><p>-Moisés Corrales.</p><p>-Farley Viveros</p></th></tr>
-<tr><td colspan="1" valign="top">Desarrollo</td><td colspan="1" valign="top"><p>- Desarrollador Frontend: Encargado del desarrollo de la interfaz de usuario y la experiencia del usuario en el lado del cliente.</p><p>- Desarrollador Backend: Responsable del desarrollo de la lógica del negocio, la base de datos y la funcionalidad del servidor.</p><p>- Desarrolladores Adicionales: Según sea necesario, pueden ser asignados para acelerar el desarrollo o abordar áreas específicas del proyecto.</p></td></tr>
-<tr><td colspan="1" valign="top">Contenido	y Comunidad</td><td colspan="1" valign="top"><p>- Gestores de Contenido: Encargados de la creación y curación de contenido relevante para los usuarios, incluyendo descripciones de destinos, reseñas y recomendaciones.</p><p>- Moderadores de Comunidad: Responsables de mantener un entorno seguro y colaborativo en la plataforma, gestionando interacciones y resolviendo disputas.</p></td><td colspan="1" valign="top">-Farley Viveros</td></tr>
-<tr><td colspan="1" valign="top">Operaciones</td><td colspan="1" valign="top">- Gerente de Operaciones: Responsable de la gestión diaria del negocio, incluyendo aspectos financieros, legales y administrativos.</td><td colspan="1" valign="top">-Rene Poma.</td></tr>
-</table>
+| **Categoría**              | **Responsabilidades**                                                                                                                                                    | 
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Administrador**           | - Coordinador General: Encargado de supervisar y coordinar todas las actividades del proyecto. <br> - Coordinador Técnico: Responsable de la dirección técnica y el desarrollo de la plataforma web. | 
+| **Desarrollo**              | - Desarrollador Frontend: Encargado del desarrollo de la interfaz de usuario y la experiencia del usuario en el lado del cliente. <br> - Desarrollador Backend: Responsable del desarrollo de la lógica del negocio, la base de datos y la funcionalidad del servidor. <br> - Desarrolladores Adicionales: Según sea necesario, pueden ser asignados para acelerar el desarrollo o abordar áreas específicas del proyecto. |       
+| **Contenido y Comunidad**  | - Gestores de Contenido: Encargados de la creación y curación de contenido relevante para los usuarios, incluyendo descripciones de destinos, reseñas y recomendaciones. <br> - Moderadores de Comunidad: Responsables de mantener un entorno seguro y colaborativo en la plataforma, gestionando interacciones y resolviendo disputas. |
+| **Operaciones**             | - Gerente de Operaciones: Responsable de la gestión diaria del negocio, incluyendo aspectos financieros, legales y administrativos.                                      |
+
 
 1. ### <a name="ii.​visionamiento_de_la_empresa"></a><a name="_toc_250005"></a>**Visionamiento de la Empresa**
 
