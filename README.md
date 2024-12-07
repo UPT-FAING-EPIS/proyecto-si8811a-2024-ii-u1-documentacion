@@ -44,7 +44,7 @@ Versión 1.0
    
    1.2. [Alcance](#Alcance)
    
-   1.3. [Definición, siglas y abreviaturas](#Definición,-siglas-y-abreviaturas)
+   1.3. [Definición, siglas y abreviaturas](#Definición-,-siglas-y-abreviaturas)
    
    1.4. [Referencias](#Referencias)
    
@@ -127,7 +127,7 @@ El propósito de nuestro proyecto es desarrollar un aplicativo móvil que facili
 
 Desarrollar una solución tecnológica que permita a los equipos universitarios registrarse de manera autónoma, acceder a información relevante de los juegos, y recibir notificaciones sobre eventos, todo ello a través de una plataforma móvil accesible y fácil de usar.
 
-### Definición, siglas y abreviaturas
+### Definición , siglas y abreviaturas
 
 App: Aplicación móvil, un software diseñado específicamente para dispositivos móviles como teléfonos inteligentes y tabletas, que permite a los usuarios interactuar con diversas funcionalidades de manera sencilla y eficiente.
 UI (Interfaz de Usuario): Es la parte visual del sistema que permite a los usuarios interactuar con la aplicación, incluyendo botones, menús, formularios y otros elementos gráficos diseñados para ofrecer una experiencia intuitiva y accesible.
