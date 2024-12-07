@@ -69,55 +69,53 @@ Versión 1.0
    4. Requerimientos no funcionales
 5. Vistas de Caso de Uso
    5.1 Diagramas de Casos de Uso
-6. Vista Lógica	17
-   1. Diagrama Contextual	17
-7. Vista de Procesos	18
-   1. Diagrama de Proceso Actual	18
-   1. Diagrama de Proceso Propuesto	18
-8. Vista de Despliegue	19
-   1. Diagrama de Contenedor	19
-9. Vista de Implementación	20
-   1. Diagrama de Componentes	20
-10. Vista de Datos	22
-   1. Diagrama Entidad Relación	22
-11. Calidad	24
-   11.1 Escenario de Seguridad	25
-   11.2 Escenario de Usabilidad	26
-   11.3 Escenario de Adaptabilidad	27
-   11.4 Escenario de Disponibilidad	28
-   11.5 Otro Escenario	28
+6. Vista Lógica
+   6.1. Diagrama Contextual
+7. Vista de Procesos
+   7.1. Diagrama de Proceso Actual
+   7.2. Diagrama de Proceso Propuesto
+8. Vista de Despliegue
+   8.1. Diagrama de Contenedor
+9. Vista de Implementación
+   9.1. Diagrama de Componentes
+10. Vista de Datos
+   10.1. Diagrama Entidad Relación
+11. Calidad
+   11.1. Escenario de Seguridad
+   11.2. Escenario de Usabilidad
+   11.3. Escenario de Adaptabilidad
+   11.4. Escenario de Disponibilidad
+   11.5. Otro Escenario
 
-**Informe de SAD**
+# **Informe de SAD**
 
-1. ## **Introducción**
-
-1. Propósito:
+## **Introducción**
+1.1. Propósito
 
 El propósito de nuestro proyecto es desarrollar un aplicativo móvil que facilite la inscripción y gestión de equipos participantes en los juegos de actividades florales universitarias, optimizando los procesos actuales y promoviendo una mayor participación estudiantil.
 
-1. Alcance:
+1.2. Alcance
 
 Desarrollar una solución tecnológica que permita a los equipos universitarios registrarse de manera autónoma, acceder a información relevante de los juegos, y recibir notificaciones sobre eventos, todo ello a través de una plataforma móvil accesible y fácil de usar.
 
-1. Definición, siglas y abreviaturas:
+1.3. Definición, siglas y abreviaturas
 
 App: Aplicación móvil, un software diseñado específicamente para dispositivos móviles como teléfonos inteligentes y tabletas, que permite a los usuarios interactuar con diversas funcionalidades de manera sencilla y eficiente.
+UI (Interfaz de Usuario): Es la parte visual del sistema que permite a los usuarios interactuar con la aplicación, incluyendo botones, menús, formularios y otros elementos gráficos diseñados para ofrecer una experiencia intuitiva y accesible.
+UX (Experiencia de Usuario): Hace referencia a la percepción y satisfacción del usuario al interactuar con la aplicación, englobando aspectos como facilidad de uso, funcionalidad y estética.
+API (Interfaz de Programación de Aplicaciones): Conjunto de reglas y protocolos que permiten que diferentes aplicaciones o componentes del sistema se comuniquen entre sí, facilitando la integración de servicios externos o funcionalidades adicionales al aplicativo móvil.
 
-0. UI (Interfaz de Usuario): Es la parte visual del sistema que permite a los usuarios interactuar con la aplicación, incluyendo botones, menús, formularios y otros elementos gráficos diseñados para ofrecer una experiencia intuitiva y accesible.
-0. UX (Experiencia de Usuario): Hace referencia a la percepción y satisfacción del usuario al interactuar con la aplicación, englobando aspectos como facilidad de uso, funcionalidad y estética.
-0. API (Interfaz de Programación de Aplicaciones): Conjunto de reglas y protocolos que permiten que diferentes aplicaciones o componentes del sistema se comuniquen entre sí, facilitando la integración de servicios externos o funcionalidades adicionales al aplicativo móvil.
-
-1. Referencias:
+1.4. Referencias
 
 - Guías de diseño de interfaces móviles (Google Material Design, Human Interface Guidelines).
 - Estudios previos de gestión tecnológica en eventos estudiantiles.
-
 - Documentación técnica de herramientas de desarrollo móvil como Flutter y React Native.
-  1. Visión General:
+
+1.5. Visión General
 
 - La visión que tenemos de nuestro sistema web, es que va a resultar innovadora al utilizar la APIS como escala, para la inscripción de equipos en los juegos de actividades florales universitarias. Se presentan el propósito, el alcance, los términos clave y las referencias relevantes, así como una visión detallada de los objetivos y características principales del sistema.
 
-1. ## **Representación Arquitectónica**
+## **Representación Arquitectónica**
 
 1. Escenarios:
 
@@ -225,121 +223,15 @@ Escenario de Funcionalidad:
 
 Escenario de Usabilidad:
 
-|**Fuente** |` `Usuario|
-| :-: | :- |
-|**Estimulo** | |
+| Item | Descripcion|
+|------------|-------------------------------------------------------------------------|
+| Fuente     | Usuario                                                                 |
+| Estímulo   |Necesidad de navegar la app de manera intuitiva|
+| Artefacto  | Aplicativo móvil (aplicación o software móvil)                           |
+| Entorno    | Entorno digital                                                         |
+| Respuesta |El sistema debe ser fácil de navegar, con menús y opciones claras y accesibles.|
+| Medición   |Evaluar si los usuarios sin experiencia técnica pueden completar tareas sin dificultad.|
 
-||
-| :- |
-
-|Necesidad de navegar la app de manera intuitiva|
-| :- |
-
-||
-| :- |
-
-||
-| :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-|**Artefacto** | |
-
-|Aplicativo móvil (aplicación o software móvil)|
-| :- |
-
-|||
-| :-: | :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-|**Entorno** ||
-
-||
-| :- |
-
-|Dispositivo móvil, en condiciones de uso variadas (luz, ruido, etc.)|
-| :- |
-
-||
-| :- |
-
-||
-| :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-|**Respuesta** | |
-
-||
-| :- |
-
-|El sistema debe ser fácil de navegar, con menús y opciones claras y accesibles.|
-| :- |
-
-||
-| :- |
-
-||
-| :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-|**Medición** | |
-
-||
-| :- |
-
-|Evaluar si los usuarios sin experiencia técnica pueden completar tareas sin dificultad.|
-| :- |
-
-||
-| :- |
-
-||
-| :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
 
 Escenario de Confiabilidad:
 
