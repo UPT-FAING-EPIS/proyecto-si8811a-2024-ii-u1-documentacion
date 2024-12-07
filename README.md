@@ -37,14 +37,6 @@ Documento SAD
 
 Versión 1.0
 
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAASCAYAAACw50UTAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAIJJREFUOI3t0qENwgAQRuGvOARBIKipZoAuwCw4FIIwQxfA1RBSU9GRMHgWwFDR1qDa5AQkfcmJS+7en1yOmV9hjzseaPo+jCt2WOKAF9LIgIENPsinLi5GzGR44zlVPia8xDlaDCdUutuHkeCIGuto8QU3rCLFsNV9x3cV0UEzf0YLwtkSIvXVRsUAAAAASUVORK5CYII=)
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|Rene Manchego, Moisés Corrales y Farley Viveros|||<p></p><p></p><p>12/11/2024</p>|<p></p><p></p><p>Versión 1.0</p>|
-
-
 # **ÍNDICE**
 
 1. Introducción
