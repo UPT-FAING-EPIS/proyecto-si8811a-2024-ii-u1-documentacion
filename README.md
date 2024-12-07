@@ -166,10 +166,14 @@ Facilitar la inscripción y gestión de equipos participantes en los juegos de a
 |<p></p><p></p><p>RF5</p>|<p></p><p>Gestión de Ubicaciones</p>|<p>- Registro de ubicaciones para eventos.</p><p>- Detalles y disponibilidad de espacios.</p><p>- Asignación de ubicaciones a eventos</p>|
 
 1) <a name="d)​reglas_de_negocio:"></a>Reglas de Negocio:
-   0. Los usuarios deben estar registrados en la Universidad.
-   0. Los usuarios deben cumplir con las normas de la comunidad y no publicar contenido inapropiado o spam.
-   0. Los anuncios publicados en la app son meramente informativos sin el fin de obligar a alguien.
-   0. La plataforma puede ofrecer funciones premium o publicidad para generar ingresos, pero debe mantener la integridad y la objetividad en la presentación de recomendaciones.
+
+   - Los usuarios deben estar registrados en la Universidad.
+
+   - Los usuarios deben cumplir con las normas de la comunidad y no publicar contenido inapropiado o spam.
+
+   - Los anuncios publicados en la app son meramente informativos sin el fin de obligar a alguien.
+
+   - La plataforma puede ofrecer funciones premium o publicidad para generar ingresos, pero debe mantener la integridad y la objetividad en la presentación de recomendaciones.
 
 1. ### <a name="v.​fase_de_desarrollo"></a><a name="_toc_250002"></a>**Fase de Desarrollo**
 
