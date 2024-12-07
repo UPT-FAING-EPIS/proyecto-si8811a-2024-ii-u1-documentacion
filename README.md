@@ -210,6 +210,22 @@ Facilitar la inscripción y gestión de equipos participantes en los juegos de a
 ||<p>6\. El sistema valida las credenciales y muestra</p><p>la pantalla del menú principal.</p>|
 |**Postcondición**|<p>El usuario podrá visualizar el menú principal de</p><p>la aplicación para poder interactuar con ella.</p>|
 
+```mermaid
+sequenceDiagram
+    actor MiembroUPT as Usuario
+    participant Sistema
+    participant MicrosoftAuth as Microsoft
+
+    MiembroUPT->>Sistema: Inicia el aplicativo
+    Sistema->>MiembroUPT: Muestra la página principal con "Ingresar con Cuenta Microsoft"
+    MiembroUPT->>Sistema: Hace clic en "Ingresar con Cuenta Microsoft"
+    Sistema->>MicrosoftAuth: Solicita inicio de sesión
+    MicrosoftAuth->>Sistema: Muestra el formulario de inicio de sesión (correo y contraseña)
+    MiembroUPT->>MicrosoftAuth: Ingresa credenciales (correo y contraseña)
+    MicrosoftAuth->>Sistema: Valida las credenciales
+    Sistema->>MiembroUPT: Muestra el menú principal
+```
+
 - Requerimiento RF-2: Visualizar Eventos
 
 |**Caso de Uso**|**Visualizar Eventos**|
