@@ -25,10 +25,10 @@ Tacna – Perú
 
 2024
 
-|CONTROL DE VERSIONES|
-| :-: |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0||||<p></p><p></p><p>12/11/2024</p>|<p></p><p></p><p>Versión 1.0</p>|
+| **CONTROL DE VERSIONES** |     |     |     |     |     |
+|:-------------------------:|-----|-----|-----|-----|-----|
+| **Versión**               | **Hecha por** | **Revisada por** | **Aprobada por** | **Fecha** | **Motivo** |
+| 1.0                       |     |     |     | 12/11/2024 | Versión 1.0 |
 
 
 # **App Móvil de Juegos Florales**
