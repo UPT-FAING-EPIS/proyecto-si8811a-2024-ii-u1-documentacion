@@ -45,30 +45,30 @@ Versión 1.0
 |1\.0|Rene Manchego, Moisés Corrales y Farley Viveros|||<p></p><p></p><p>12/11/2024</p>|<p></p><p></p><p>Versión 1.0</p>|
 
 
-**ÍNDICE**
+# **ÍNDICE**
 
-1. Introducción	4
-   1. Propósito	4
-   1. Alcance	4
-   1. Definición, siglas y abreviaturas	4
-   1. Referencias	4
-   1. Visión General	5
-1. Representación Arquitectónica	5
-   1. Escenarios	5
-   1. Vista Lógica	6
-   1. Vista del Proceso	6
-   1. Vista del desarrollo	6
-   1. Vista Física	6
-1. Objetivos y limitaciones arquitectónicas	7
-   1. Disponibilidad	7
-   1. Seguridad	7
-   1. Adaptabilidad	7
-   1. Rendimiento	7
-1. Análisis de Requerimientos	8
-   1. Requerimientos funcionales	7
-   1. Requerimientos no funcionales	7
-1. Vistas de Caso de Uso	9
-
+1. Introducción
+   1. Propósito
+   1. Alcance
+   1. Definición, siglas y abreviaturas
+   1. Referencias
+   1. Visión General
+1. Representación Arquitectónica
+   1. Escenarios
+   1. Vista Lógica
+   1. Vista del Proceso
+   1. Vista del desarrollo
+   1. Vista Física
+1. Objetivos y limitaciones arquitectónicas
+   1. Disponibilidad
+   1. Seguridad
+   1. Adaptabilidad
+   1. Rendimiento
+1. Análisis de Requerimientos
+   1. Requerimientos funcionales
+   1. Requerimientos no funcionales
+1. Vistas de Caso de Uso
+Diagramas de Casos de Uso
 1. Vista Lógica	17
    1. Diagrama Contextual	17
 1. Vista de Procesos	18
