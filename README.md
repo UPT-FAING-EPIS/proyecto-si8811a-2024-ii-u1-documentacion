@@ -23,7 +23,7 @@ Lizárraga Pomareda, Sergio Pedro (2020066921)
 
 
 # **CONTROL DE VERSIONES**
-|:-------------------------:|-----|-----|-----|-----|-----|
+
 | **Versión**               | **Hecha por** | **Revisada por** | **Aprobada por** | **Fecha** | **Motivo** |
 | 1.0                       |     |     |     | 12/11/2024 | Versión 1.0 |
 
