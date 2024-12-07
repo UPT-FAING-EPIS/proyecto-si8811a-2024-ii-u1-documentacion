@@ -216,6 +216,7 @@ App: Aplicación móvil, un software diseñado específicamente para dispositivo
 
 3\.5.1 Diagrama de Despliegue
 
+![image](https://github.com/user-attachments/assets/c0cda043-0ff5-40a6-b68e-bfc32875d084)
 
 
 
