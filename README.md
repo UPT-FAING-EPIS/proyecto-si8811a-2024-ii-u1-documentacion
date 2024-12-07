@@ -313,7 +313,7 @@ sequenceDiagram
 |**Postcondición**|<p>El usuario podrá contactar a los coordinadores</p><p>docentes por medio de su número.</p>|
 
 - Requerimiento RF-7: Visualizar Coordinadores Estudiantes.
-
+```
 sequenceDiagram
     actor Usuario
     participant App
@@ -335,7 +335,7 @@ sequenceDiagram
     App->>Sistema: Solicita información de coordinadores
     Sistema->>App: Retorna listado de coordinadores
     App->>Usuario: 7. Muestra listado de coordinadores estudiantes con información de contacto
-
+```
 |**Caso de Uso**|**Visualizar Coordinadores Estudiantes.**|
 | :- | :- |
 |**Actores**|Miembro UPT.|
