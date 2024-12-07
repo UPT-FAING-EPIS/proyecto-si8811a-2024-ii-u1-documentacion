@@ -192,6 +192,9 @@ Facilitar la inscripción y gestión de equipos participantes en los juegos de a
 
 0. Diagrama de Casos de Uso:
 
+   ![image](https://github.com/user-attachments/assets/fcc7e817-4816-439e-883c-e8c85a106b33)
+
+
 0. Escenarios de Caso de Uso (narrativa):
 
 \-	Requerimiento RF-1: Iniciar Sesión
