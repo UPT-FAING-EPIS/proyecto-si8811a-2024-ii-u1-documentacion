@@ -31,18 +31,6 @@ Tacna – Perú
 |1\.0||||<p></p><p></p><p>12/11/2024</p>|<p></p><p></p><p>Versión 1.0</p>|
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # **App Móvil de Juegos Florales**
 
 Documento SAD
@@ -137,11 +125,11 @@ App: Aplicación móvil, un software diseñado específicamente para dispositivo
 
 |**ID**|**Requerimiento**|**Descripción**|
 | -: | :- | :-: |
-|<p></p><p></p><p>RF1</p>|<p></p><p>Autenticación y Usuarios</p>|<p>- Inicio de sesión mediante cuentas Microsoft</p><p>- Roles diferenciados (administrador y usuario estándar)</p><p>- Cierre de sesión seguro</p>|
-|<p></p><p></p><p>RF2</p>|<p></p><p></p><p>Gestión de Eventos</p>|<p>- Crear, editar, eliminar y visualizar eventos</p><p>- Asignar fechas y ubicaciones a eventos</p><p>- Gestionar estados de eventos</p>|
-|<p></p><p></p><p>RF3</p>|<p></p><p>Gestión de Participantes</p>|<p>- Registro y administración de participantes</p><p>- Asignación de participantes a eventos</p><p>- Control de información personal</p>|
-|<p></p><p></p><p>RF4</p>|<p></p><p></p><p>Gestión de Equipos</p>|<p>- Crear y administrar equipos</p><p>- Asignar participantes a equipos</p><p>- Vincular equipos con eventos</p>|
-|<p></p><p></p><p>RF5</p>|<p></p><p>Gestión de Ubicaciones</p>|<p>- Registro de ubicaciones para eventos.</p><p>- Detalles y disponibilidad de espacios.</p><p>- Asignación de ubicaciones a eventos</p>|
+|RF1|Autenticación y Usuarios|<p>- Inicio de sesión mediante cuentas Microsoft</p><p>- Roles diferenciados (administrador y usuario estándar)</p><p>- Cierre de sesión seguro</p>|
+|RF2|Gestión de Eventos</p>|<p>- Crear, editar, eliminar y visualizar eventos</p><p>- Asignar fechas y ubicaciones a eventos</p><p>- Gestionar estados de eventos</p>|
+|RF3|Gestión de Participantes</p>|<p>- Registro y administración de participantes</p><p>- Asignación de participantes a eventos</p><p>- Control de información personal</p>|
+|RF4|Gestión de Equipos</p>|<p>- Crear y administrar equipos</p><p>- Asignar participantes a equipos</p><p>- Vincular equipos con eventos</p>|
+|RF5|Gestión de Ubicaciones</p>|<p>- Registro de ubicaciones para eventos.</p><p>- Detalles y disponibilidad de espacios.</p><p>- Asignación de ubicaciones a eventos</p>|
 
 
 
