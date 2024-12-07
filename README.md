@@ -319,6 +319,9 @@ classDiagram
 
 1. Diagrama de Arquitectura de Software
 
+![image](https://github.com/user-attachments/assets/00f1ef72-ae61-4371-9555-74a416239755)
+
+
 ![image](https://github.com/user-attachments/assets/77b0eedd-5379-44b2-a606-96b3a728fbbc)
 
 
