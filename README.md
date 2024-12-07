@@ -231,55 +231,6 @@ Escenario de Funcionalidad:
 |Respuesta|El sistema debe permitir la inscripción de equipos, consulta de actividades, visualización de datos, y seguimiento|
 |Medición|Evaluar si la app permite registrar equipos, mostrar actividades, ubicaciones, y estadísticas correctamente y sin errores|
 
-|**Fuente** |` `Usuario|
-|**Estimulo** | |
-
-|Necesidad de inscribir equipos, consultar información, visualizar ubicaciones y puntajes|
-| :- |
-
-
-|||
-| :-: | :- |
-|**Artefacto** | |
-
-|Aplicativo móvil (aplicación o software móvil)|
-| :- |
-
-|||
-| :-: | :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-|**Entorno** |` `Entorno digital|
-|**Respuesta** | |
-
-|El sistema debe permitir la inscripción de equipos, consulta de actividades, visualización de datos, y seguimiento|
-| :- |
-
-|||
-| :-: | :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
-|**Medición** | |
-
-|Evaluar si la app permite registrar equipos, mostrar actividades, ubicaciones, y estadísticas correctamente y sin errores|
-| :- |
-
-|||
-| :-: | :- |
-
-||
-| :- |
-
-|||
-| :-: | :- |
 
 Escenario de Usabilidad:
 
