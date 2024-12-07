@@ -40,15 +40,15 @@ Versión 1.0
 
 1. [Introducción](#Introducción)
    
-   1.1. Propósito
+   1.1. [Propósito](#Propósito)
    
-   1.2. Alcance
+   1.2. [Alcance](#Alcance)
    
-   1.3. Definición, siglas y abreviaturas
+   1.3. [Definición, siglas y abreviaturas](#Definición,siglasyabreviaturas)
    
-   1.4. Referencias
+   1.4. [Referencias](#Referencias)
    
-   1.5. Visión General
+   1.5. [Visión General](#VisiónGeneral)
    
 2. Representación Arquitectónica
    
@@ -123,24 +123,24 @@ Versión 1.0
 
 El propósito de nuestro proyecto es desarrollar un aplicativo móvil que facilite la inscripción y gestión de equipos participantes en los juegos de actividades florales universitarias, optimizando los procesos actuales y promoviendo una mayor participación estudiantil.
 
-1.2. Alcance
+### Alcance
 
 Desarrollar una solución tecnológica que permita a los equipos universitarios registrarse de manera autónoma, acceder a información relevante de los juegos, y recibir notificaciones sobre eventos, todo ello a través de una plataforma móvil accesible y fácil de usar.
 
-1.3. Definición, siglas y abreviaturas
+### Definición, siglas y abreviaturas
 
 App: Aplicación móvil, un software diseñado específicamente para dispositivos móviles como teléfonos inteligentes y tabletas, que permite a los usuarios interactuar con diversas funcionalidades de manera sencilla y eficiente.
 UI (Interfaz de Usuario): Es la parte visual del sistema que permite a los usuarios interactuar con la aplicación, incluyendo botones, menús, formularios y otros elementos gráficos diseñados para ofrecer una experiencia intuitiva y accesible.
 UX (Experiencia de Usuario): Hace referencia a la percepción y satisfacción del usuario al interactuar con la aplicación, englobando aspectos como facilidad de uso, funcionalidad y estética.
 API (Interfaz de Programación de Aplicaciones): Conjunto de reglas y protocolos que permiten que diferentes aplicaciones o componentes del sistema se comuniquen entre sí, facilitando la integración de servicios externos o funcionalidades adicionales al aplicativo móvil.
 
-1.4. Referencias
+### Referencias
 
 - Guías de diseño de interfaces móviles (Google Material Design, Human Interface Guidelines).
 - Estudios previos de gestión tecnológica en eventos estudiantiles.
 - Documentación técnica de herramientas de desarrollo móvil como Flutter y React Native.
 
-1.5. Visión General
+### Visión General
 
 - La visión que tenemos de nuestro sistema web, es que va a resultar innovadora al utilizar la APIS como escala, para la inscripción de equipos en los juegos de actividades florales universitarias. Se presentan el propósito, el alcance, los términos clave y las referencias relevantes, así como una visión detallada de los objetivos y características principales del sistema.
 
