@@ -295,6 +295,29 @@ sequenceDiagram
 |**Postcondición**|<p>El usuario podrá ver e interactuar con el listado</p><p>de los participantes.</p>|
 
 - Requerimiento RF-6: Visualizar Coordinadores Docentes.
+```mermaid
+sequenceDiagram
+    actor Usuario
+    participant App
+    participant Sistema
+    
+    Usuario->>App: 1. Inicia la App
+    App->>Usuario: 2. Muestra página de bienvenida y botón de inicio de sesión
+    
+    Usuario->>App: 3. Ingresa correo institucional y contraseña
+    Usuario->>App: Click en botón para ingresar
+    
+    App->>Sistema: Valida credenciales Microsoft
+    Sistema->>App: Confirma autenticación
+    
+    App->>Usuario: 5. Muestra pantalla de inicio con apartados de juegos florales y apartado de Coordinadores Docentes
+    
+    Usuario->>App: 6. Click en apartado de Coordinadores Docentes
+    
+    App->>Sistema: Solicita información de coordinadores docentes
+    Sistema->>App: Retorna listado de coordinadores docentes
+    App->>Usuario: 7. Muestra listado de coordinadores docentes con información de contacto
+```
 
 |**Caso de Uso**|**Visualizar Coordinadores Docentes.**|
 | :- | :- |
