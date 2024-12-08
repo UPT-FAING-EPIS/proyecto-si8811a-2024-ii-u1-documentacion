@@ -104,43 +104,68 @@ Costo reducido para 3 meses: **S/. 2,286.30**
 | Costos de Personal   | S/. 9,225  |
 | **Total**            | S/. 11,582.90|
 
----
+### Factibilidad Operativa
 
-## Factibilidades Adicionales
-
-### Operativa
 - Uso de canales oficiales para difusión.
 - Equipo técnico capacitado en React.
 
-### Legal
+### Factibilidad Legal
 Cumplimiento con:
 - Ley N° 29733 (Protección de Datos Personales).
 - Ley N° 30096 (Delitos Informáticos).
 
-### Social
+### Factibilidad Social
 - Mejora la experiencia de estudiantes, docentes y rectores.
 - Aumenta la participación estudiantil.
 
-### Ambiental
+### Factibilidad Ambiental
 Impacto mínimo por emisiones CO2 relacionadas con el consumo energético.
 
 ---
 
 ## Análisis Financiero
 
+### Justificacion de la Inversion
+
+Los costos del proyecto se estimaron en los requerimientos levantados con la entrevista al cliente, una página web que reemplace al anterior brindando nuevas herramientas que mejoren la experiencia del usuario, enfocándonos principalmente en los potenciales clientes.
+
 ### Beneficios
 - Aumento en visibilidad y credibilidad.
 - Mejora en eficiencia operativa.
 - Fidelización y satisfacción del cliente.
 
----
+### Criterios de Inversion
+
+INGRESOS: Estimados anuales: 23 570,93 soles anuales.
+
+EGRESOS:
+- Gasto Operativos.
+- Se pierde 1% de clientes y se gana 5% cada año.
+- Gastos en Software.
+
+#### B/C
+
+![image](https://github.com/user-attachments/assets/9462a547-ccf3-43e3-95e6-53a5d29e3cdc)
+
+La relación Beneficio/Costo resulta en un valor de 2,62, siendo mayor a 1, por lo tanto, se aprueba el proyecto.
+
+![image](https://github.com/user-attachments/assets/b7224932-90a4-4a9e-be5e-358660b6a506)
+
+#### VAN
+
+El valor actual neto resulta en un valor de 54, siendo mayor a 0, por lo tanto, se aprueba el proyecto.
+
+![image](https://github.com/user-attachments/assets/7a57c52a-0918-474f-9252-30f7eec08948)
+
+#### TIR
+
+![image](https://github.com/user-attachments/assets/ec55c798-bf8f-4558-a91a-cb89756fe22a)
+
+Además, se tiene claro de por sí, que la implementación del proyecto traería más ingresos a la empresa que los actuales, por lo tanto, la TIR resultaría siendo mayor al costo de oportunidad de no haber realizado el proyecto. En este caso, tanto como aprobar el proyecto, como rechazarlo, son opciones con peso equitativo.
 
 ## Conclusiones
 
-- Viabilidad técnica, económica, operativa, legal y social.
-- Impacto ambiental mínimo.
-- Proyecto rentable y aprobado para su desarrollo.
+Gracias a entrevistas al cliente fue posible capturar los requerimientos del mismo para la optimización del software y que al finalizar los días acordados, el software tendrá todos los requerimientos solicitados por el cliente. Por otro lado, según los tipos de factibilidad, el proyecto presenta viabilidad técnica, económica, operativa, social y legal, mientras tanto, en el ámbito ambiental, hará uso de energía implicando efectos mínimos.
 
----
 
 
